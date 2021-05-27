@@ -11,3 +11,5 @@ scoop install poldi/<app>
 ```
 
 ## Manifests
+
+- [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates "ping" over TCP by establishing a connection to network hosts.
