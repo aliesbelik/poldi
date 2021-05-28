@@ -1,7 +1,7 @@
 {
     "version": "0.39",
-    "homepage": "https://elifulkerson.com/projects/tcping.php",
     "description": "Eli Fulkerson's TCP ping tool, ping over a tcp connection",
+    "homepage": "https://elifulkerson.com/projects/tcping.php",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
