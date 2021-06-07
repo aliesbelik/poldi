@@ -1,4 +1,4 @@
-./<#
+<#
 .SYNOPSIS
     Find description for given manifest
 .PARAMETER Manifest
