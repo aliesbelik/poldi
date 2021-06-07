@@ -24,3 +24,4 @@ scoop install poldi/<app>
 ### Load generators
 
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
+- [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
