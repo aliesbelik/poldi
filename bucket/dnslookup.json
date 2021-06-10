@@ -1,0 +1,31 @@
+{
+    "version": "1.4.8",
+    "description": "Simple CLI utility to make DNS lookups to the specified server",
+    "homepage": "https://github.com/ameshkov/dnslookup",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ameshkov/dnslookup/releases/download/v1.4.8/dnslookup-windows-amd64-v1.4.8.zip",
+            "hash": "8775c213448de019711ca25852a021647bc3dcd4b47e1fbdb8e0d98432c7f7bf"
+        },
+        "32bit": {
+            "url": "https://github.com/ameshkov/dnslookup/releases/download/v1.4.8/dnslookup-windows-386-v1.4.8.zip",
+            "hash": "d805c3f6a8d58f85ec60120250bce86eab78d3048556530d6fced566ac2c2197"
+        }
+    },
+    "bin": "dnslookup.exe",
+    "suggest": {
+        "dns": "poldi/dnstrace"
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ameshkov/dnslookup/releases/download/v$version/dnslookup-windows-amd64-v$version.zipz"
+            },
+            "32bit": {
+                "url": "https://github.com/ameshkov/dnslookup/releases/download/v$version/dnslookup-windows-386-v$version.zip"
+            }
+        }
+    }
+}
