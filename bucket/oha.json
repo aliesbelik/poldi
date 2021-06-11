@@ -10,9 +10,7 @@
         }
     },
     "bin": "oha.exe",
-    "checkver": {
-        "github": "https://github.com/hatoo/oha"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {

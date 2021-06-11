@@ -8,7 +8,7 @@
     "bin": "mturoute.exe",
     "checkver": {
         "url": "http://www.elifulkerson.com/projects/mturoute.php",
-        "re": "https://download.elifulkerson.com/files/mturoute/([\\d.]+)"
+        "regex": "https://download.elifulkerson.com/files/mturoute/([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://download.elifulkerson.com/files/mturoute/$version/mturoute.exe",

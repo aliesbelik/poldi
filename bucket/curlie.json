@@ -1,6 +1,6 @@
 {
     "version": "1.6.0",
-    "description": "A frontend to curl that adds the ease of use of httpie, without compromising on features and performance.",
+    "description": "A frontend to curl that adds the ease of use of httpie, without compromising on features and performance",
     "homepage": "https://github.com/rs/curlie",
     "license": "MIT",
     "architecture": {

@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "description": "CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.",
+    "description": "CLI tool for gathering info in order to debug CDN connection issues",
     "homepage": "https://github.com/Redundancy/cdntest",
     "license": "MIT",
     "url": "https://github.com/Redundancy/cdntest/releases/download/0.0.1/cdntest.exe",

@@ -16,7 +16,7 @@
     "bin": "tcping.exe",
     "checkver": {
         "url": "https://www.elifulkerson.com/projects/tcping.php",
-        "re": "https://download.elifulkerson.com/files/tcping/([\\d.]+)"
+        "regex": "https://download.elifulkerson.com/files/tcping/([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
