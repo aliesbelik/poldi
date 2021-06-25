@@ -1,10 +1,10 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "DNS ping tool to check packet loss and latency issues with DNS servers",
     "homepage": "https://github.com/fortio/dnsping",
     "license": "Apache-2.0",
-    "url": "https://github.com/fortio/dnsping/releases/download/v1.1.4/dnsping_win_v1.1.4.zip",
-    "hash": "b0051be451f5a1df19bbc06dced46063e4f43932c53c2b38428cc443bb78e9d7",
+    "url": "https://github.com/fortio/dnsping/releases/download/v1.1.5/dnsping_win_v1.1.5.zip",
+    "hash": "482492d20859918c61b07c19d16f82ad3abb478d5e0be39df5fbb6d5106331f9",
     "bin": "dnsping.exe",
     "suggest": {
         "dns": [
