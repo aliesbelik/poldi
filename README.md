@@ -14,6 +14,12 @@ scoop install poldi/<app>
 
 > Only apps NOT available in `scoop bucket known` buckets.
 
+### Load-testing tools
+
+- [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
+- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
+- [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
+
 ### Network tools
 
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
@@ -24,9 +30,3 @@ scoop install poldi/<app>
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [mturoute](http://www.elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates `ping` over TCP by establishing a connection to network hosts.
-
-### Load generators
-
-- [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
-- [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
-- [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.

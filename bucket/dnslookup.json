@@ -17,7 +17,11 @@
     },
     "bin": "dnslookup.exe",
     "suggest": {
-        "dns": "poldi/dnstrace"
+        "dns": [
+            "poldi/dnsping",
+            "poldi/dnsproxy",
+            "poldi/dnstrace"
+        ]
     },
     "checkver": "github",
     "autoupdate": {
