@@ -14,6 +14,10 @@ scoop install poldi/<app>
 
 > Only apps NOT available in `scoop bucket known` buckets.
 
+### Dev tools
+
+- [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
+
 ### Load-testing tools
 
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
