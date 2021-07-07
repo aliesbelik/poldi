@@ -24,6 +24,7 @@ scoop install poldi/<app>
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
+- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library written in Go.
 
 ### Network tools
 
