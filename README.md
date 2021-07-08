@@ -20,6 +20,7 @@ scoop install poldi/<app>
 
 ### Load-testing tools
 
+- [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go.
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
