@@ -16,6 +16,7 @@ scoop install poldi/<app>
 
 ### Dev tools
 
+- [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
 
 ### Load-testing tools
