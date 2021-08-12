@@ -29,6 +29,7 @@ scoop install poldi/<app>
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
 - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool written in Go, with real-time web UI and terminal displaying.
+- [rewrk](https://github.com/ChillFish8/rewrk) - A modern HTTP framework benchmarking tool written in Rust, supporting HTTP/1 and HTTP/2 benchmarks.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library written in Go.
 
 ### Network tools
