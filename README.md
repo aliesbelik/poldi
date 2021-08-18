@@ -25,6 +25,7 @@ scoop install poldi/<app>
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go.
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
+- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
