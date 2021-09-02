@@ -10,16 +10,12 @@ scoop bucket add poldi https://github.com/aliesbelik/poldi
 scoop install poldi/<app>
 ```
 
-## Manifests
+## Apps
 
 > Only apps NOT available in `scoop bucket known` buckets.
 
-### Dev tools
-
-- [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
-- [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
-
-### Load-testing tools
+<details>
+  <summary><strong>Load-testing tools</strong></summary>
 
 - [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
@@ -34,7 +30,10 @@ scoop install poldi/<app>
 - [rewrk](https://github.com/ChillFish8/rewrk) - A modern HTTP framework benchmarking tool written in Rust, supporting HTTP/1 and HTTP/2 benchmarks.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library written in Go.
 
-### Network tools
+</details>
+<br>
+<details>
+  <summary><strong>Network tools</strong></summary>
 
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
 - [curlie](https://github.com/rs/curlie) - A frontend to `curl` that adds the ease of use of `httpie`, without compromising on features and performance.
@@ -45,3 +44,13 @@ scoop install poldi/<app>
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates `ping` over TCP by establishing a connection to network hosts.
+
+</details>
+<br>
+<details>
+  <summary><strong>Testing tools</strong></summary>
+
+- [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
+- [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
+
+</details>
