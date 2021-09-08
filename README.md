@@ -31,7 +31,7 @@ scoop install poldi/<app>
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library written in Go.
 
 </details>
-<br>
+
 <details>
   <summary><strong>Network tools</strong></summary>
 
@@ -46,12 +46,13 @@ scoop install poldi/<app>
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates `ping` over TCP by establishing a connection to network hosts.
 
 </details>
-<br>
+
 <details>
   <summary><strong>Testing tools</strong></summary>
 
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
+- [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
 
 </details>
