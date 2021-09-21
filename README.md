@@ -44,6 +44,7 @@ scoop install poldi/<app>
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates `ping` over TCP by establishing a connection to network hosts.
+- [termscp](https://github.com/veeso/termscp) - A feature rich terminal file transfer and explorer with SCP/SFTP/FTP/S3 support.
 
 </details>
 
