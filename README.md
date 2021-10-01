@@ -15,7 +15,7 @@ scoop install poldi/<app>
 > Only apps NOT available in `scoop bucket known` buckets.
 
 <details>
-  <summary><strong>Load-testing tools</strong></summary>
+  <summary><strong>Benchmarking</strong></summary>
 
 - [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
@@ -33,7 +33,14 @@ scoop install poldi/<app>
 </details>
 
 <details>
-  <summary><strong>Network tools</strong></summary>
+  <summary><strong>Misc</strong></summary>
+
+- [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+
+</details>
+
+<details>
+  <summary><strong>Network</strong></summary>
 
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
 - [curlie](https://github.com/rs/curlie) - A frontend to `curl` that adds the ease of use of `httpie`, without compromising on features and performance.
@@ -49,7 +56,7 @@ scoop install poldi/<app>
 </details>
 
 <details>
-  <summary><strong>Testing tools</strong></summary>
+  <summary><strong>Testing</strong></summary>
 
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
