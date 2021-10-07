@@ -36,6 +36,7 @@ scoop install poldi/<app>
   <summary><strong>Misc</strong></summary>
 
 - [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from a shell.
 
 </details>
 

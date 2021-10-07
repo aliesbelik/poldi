@@ -1,0 +1,16 @@
+{
+    "version": "1.4",
+    "description": "JSON output from a shell",
+    "homepage": "https://github.com/jpmens/jo",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://github.com/jpmens/jo/blob/master/COPYING"
+    },
+    "url": "https://github.com/jpmens/jo/releases/download/1.4/jo.exe",
+    "hash": "2651030cad672f5099ea6038b2077ba7dc85bbe0f37ceabe44526845b9f771c6",
+    "bin": "jo.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/jpmens/jo/releases/download/$version/jo.exe"
+    }
+}
