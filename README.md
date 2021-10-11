@@ -23,6 +23,7 @@ scoop install poldi/<app>
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
+- [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by `hey` with `tui` animation.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
