@@ -53,7 +53,6 @@ scoop install poldi/<app>
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
-- [tcping](https://elifulkerson.com/projects/tcping.php) - Eli Fulkerson's TCP ping tool, simulates `ping` over TCP by establishing a connection to network hosts.
 
 </details>
 
@@ -68,8 +67,9 @@ scoop install poldi/<app>
 </details>
 
 <details>
-  <summary><strong>Deprecated</strong></summary>
+  <summary><strong>Migrated</strong></summary>
 
+- [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 
 </details>
