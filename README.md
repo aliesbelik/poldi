@@ -21,7 +21,6 @@ scoop install poldi/<app>
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go.
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
-- [ddosify](https://github.com/ddosify/ddosify) - High-performance load testing and DDOS attack simulation tool, written in Go.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
 - [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
@@ -70,6 +69,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Migrated</strong></summary>
 
+- [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 
