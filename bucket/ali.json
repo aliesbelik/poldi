@@ -1,16 +1,16 @@
 {
-    "version": "0.7.3",
+    "version": "0.7.5",
     "description": "Generate HTTP load and plot the results in real-time",
     "homepage": "https://github.com/nakabonne/ali",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nakabonne/ali/releases/download/v0.7.3/ali_0.7.3_windows_amd64.tar.gz",
-            "hash": "7aa65587f918e7994b0a7cc61d87d0ccc2342793df589826b613b6e35e5955f4"
+            "url": "https://github.com/nakabonne/ali/releases/download/v0.7.5/ali_0.7.5_windows_amd64.tar.gz",
+            "hash": "c9d3640c48e49cdd5d767f0993b823d2c13f61435c30c12534f7f44aa13b5181"
         },
         "32bit": {
-            "url": "https://github.com/nakabonne/ali/releases/download/v0.7.3/ali_0.7.3_windows_32-bit.tar.gz",
-            "hash": "094c1318162430a3eb5c53e4a07917715b6eb1583f76c94c62a4327e694a33f6"
+            "url": "https://github.com/nakabonne/ali/releases/download/v0.7.5/ali_0.7.5_windows_32-bit.tar.gz",
+            "hash": "3038960a41fa30a6f10ac2c0ef9c5220c75ca5554c3da2bb30bf477efec0e3cd"
         }
     },
     "bin": "ali.exe",
