@@ -37,6 +37,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Misc</strong></summary>
 
+- [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from a shell.
 
