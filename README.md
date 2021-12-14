@@ -63,6 +63,7 @@ scoop install poldi/<app>
   <summary><strong>Testing</strong></summary>
 
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
+- [hopp-cli](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for Hoppscotch, an alternative to `curl`, `httpie`.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
