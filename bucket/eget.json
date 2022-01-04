@@ -1,18 +1,18 @@
 {
-    "version": "0.3.1",
+    "version": "1.0.0",
     "description": "Easily install prebuilt binaries from GitHub",
     "homepage": "https://github.com/zyedidia/eget",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zyedidia/eget/releases/download/v0.3.1/eget-0.3.1-windows_amd64.zip",
-            "hash": "aeaaeceaf2c247186bd1f7c26663775ae3443dbb42402a128521e98fe5d970e0",
-            "extract_dir": "eget-0.3.1-windows_amd64"
+            "url": "https://github.com/zyedidia/eget/releases/download/v1.0.0/eget-1.0.0-windows_amd64.zip",
+            "hash": "5f7e4bad66e1f9879892721f9782f92974132c915df0baa93642c5d4d0a16561",
+            "extract_dir": "eget-1.0.0-windows_amd64"
         },
         "32bit": {
-            "url": "https://github.com/zyedidia/eget/releases/download/v0.3.1/eget-0.3.1-windows_386.zip",
-            "hash": "7d28a01ad6f4a53ed69b21a272f05c78633b8dbb46a6c718f2bd12cbeb6af08d",
-            "extract_dir": "eget-0.3.1-windows_386"
+            "url": "https://github.com/zyedidia/eget/releases/download/v1.0.0/eget-1.0.0-windows_386.zip",
+            "hash": "325ac233163acc53a2384913e1730fb3c0ba2b72d341480eb4a7fa806bd3ef2c",
+            "extract_dir": "eget-1.0.0-windows_386"
         }
     },
     "bin": "eget.exe",
