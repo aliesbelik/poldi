@@ -68,6 +68,7 @@ scoop install poldi/<app>
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
+- [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
 
 </details>
 
