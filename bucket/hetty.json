@@ -1,12 +1,12 @@
 {
-    "version": "0.5.1",
+    "version": "0.6.0",
     "description": "An HTTP toolkit for security research",
     "homepage": "https://hetty.xyz/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dstotijn/hetty/releases/download/v0.5.1/hetty_0.5.1_Windows_x86_64.zip",
-            "hash": "322582de6780179995d2b8e1ee4fe478fa8ab7b25a627eb2a5afe7eb17cf86ea"
+            "url": "https://github.com/dstotijn/hetty/releases/download/v0.6.0/hetty_0.6.0_Windows_x86_64.zip",
+            "hash": "81bc75b2531d46bc8eca92eb1e770d5d004ad148c1b579f5b8de455ff5b26087"
         }
     },
     "bin": "hetty.exe",
