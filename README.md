@@ -40,7 +40,6 @@ scoop install poldi/<app>
 
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from a shell.
 
 </details>
 
@@ -77,6 +76,7 @@ scoop install poldi/<app>
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
+- [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 

@@ -3,7 +3,7 @@
     "description": "JSON output from a shell",
     "homepage": "https://github.com/jpmens/jo",
     "license": {
-        "identifier": "Proprietary",
+        "identifier": "GPL-2.0-or-later",
         "url": "https://github.com/jpmens/jo/blob/master/COPYING"
     },
     "url": "https://github.com/jpmens/jo/releases/download/1.6/jo.exe",
