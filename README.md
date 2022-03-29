@@ -48,7 +48,6 @@ scoop install poldi/<app>
   <summary><strong>Network</strong></summary>
 
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
-- [curlie](https://github.com/rs/curlie) - A frontend to `curl` that adds the ease of use of `httpie`, without compromising on features and performance.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple CLI utility to make DNS lookups.
 - [dnsping](https://github.com/fortio/dnsping) - DNS ping utility to check packet loss and latency issues with DNS servers.
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - A simple DNS proxy server with support all existing DNS protocols including DNS-over-TLS, DNS-over-HTTPS, DNS-over-QUIC and DNSCrypt.
@@ -75,6 +74,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Migrated</strong></summary>
 
+- [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
