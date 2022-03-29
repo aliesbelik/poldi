@@ -1,12 +1,12 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "Print X.509 certificate info",
     "homepage": "https://github.com/pete911/certinfo",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pete911/certinfo/releases/download/v1.0.4/certinfo_1.0.4_windows_amd64.tar.gz",
-            "hash": "dce1e4fe95c0919eaa1fd6d595a36e4810cf724b6fd6c0a7ed95716f45568416"
+            "url": "https://github.com/pete911/certinfo/releases/download/v1.0.6/certinfo_1.0.6_windows_amd64.zip",
+            "hash": "d3c73be35c186c745a2de602f3d993c677b56d9fb8f8311adf71b2e21759562b"
         }
     },
     "bin": "certinfo.exe",
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/pete911/certinfo/releases/download/v$version/certinfo_$version_windows_amd64.tar.gz"
+                "url": "https://github.com/pete911/certinfo/releases/download/v$version/certinfo_$version_windows_amd64.zip"
             }
         },
         "hash": {
