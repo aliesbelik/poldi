@@ -41,6 +41,7 @@ scoop install poldi/<app>
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [octosql](https://github.com/cube2222/octosql) - A query tool to join, analyse and transform data from multiple databases and file formats using SQL.
 
 </details>
 
