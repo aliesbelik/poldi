@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "description": "DNS tool to display information about your domain",
+    "homepage": "https://github.com/42wim/dt",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/42wim/dt/releases/download/v1.0.0/dt-1.0.0-windows-amd64.exe#/dt.exe",
+            "hash": "788b6e5cffef77d505498dd9a40fbd12285ec4601439c60547f9305bdb907c87"
+        },
+        "32bit": {
+            "url": "https://github.com/42wim/dt/releases/download/v1.0.0/dt-1.0.0-windows-386.exe#/dt.exe",
+            "hash": "e65e93369df0ef7b5fb1ca469cc5e2dfee468eec252ac146ab4f9cd596b86f6b"
+        }
+    },
+    "bin": "dt.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/42wim/dt/releases/download/v$version/dt-$version-windows-amd64.exe#/dt.exe"
+            },
+            "32bit": {
+                "url": "https://github.com/42wim/dt/releases/download/v$version/dt-$version-windows-386.exe#/dt.exe"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
