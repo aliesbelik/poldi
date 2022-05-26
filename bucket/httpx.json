@@ -1,0 +1,31 @@
+{
+    "version": "1.2.1",
+    "description": "A fast and multi-purpose HTTP toolkit allows to run multiple probers",
+    "homepage": "https://github.com/projectdiscovery/httpx",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/projectdiscovery/httpx/releases/download/v1.2.1/httpx_1.2.1_windows_amd64.zip",
+            "hash": "afb7fc0265594c565dbb2e0f569b8dc2544d31d703afe2a953b8c72cb78252af"
+        },
+        "32bit": {
+            "url": "https://github.com/projectdiscovery/httpx/releases/download/v1.2.1/httpx_1.2.1_windows_386.zip",
+            "hash": "cb771611c0dc63b82dc2ddf3b8a3482a9bbedf10b073436133bae4b4791d9b48"
+        }
+    },
+    "bin": "httpx.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/projectdiscovery/httpx/releases/download/v$version/httpx_$version_windows_amd64.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/projectdiscovery/httpx/releases/download/v$version/httpx_$version_windows_386.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/httpx_$version_checksums.txt"
+        }
+    }
+}
