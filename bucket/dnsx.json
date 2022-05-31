@@ -1,0 +1,31 @@
+{
+    "version": "1.1.0",
+    "description": "A fast and multi-purpose DNS toolkit allow to run multiple DNS queries",
+    "homepage": "https://github.com/projectdiscovery/dnsx",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/projectdiscovery/dnsx/releases/download/v1.1.0/dnsx_1.1.0_windows_amd64.zip",
+            "hash": "2e221854a8a49564e5858c15774b761dd4c09c8051dc7d1e242103495829a730"
+        },
+        "32bit": {
+            "url": "https://github.com/projectdiscovery/dnsx/releases/download/v1.1.0/dnsx_1.1.0_windows_386.zip",
+            "hash": "455bcfe0a3cf5c5c33ed16668d8c4f48997698fc392a11cd5c63c72126092fc1"
+        }
+    },
+    "bin": "dnsx.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/projectdiscovery/dnsx/releases/download/v$version/dnsx_$version_windows_amd64.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/projectdiscovery/dnsx/releases/download/v$version/dnsx_$version_windows_386.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/dnsx_$version_checksums.txt"
+        }
+    }
+}
