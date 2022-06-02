@@ -41,7 +41,6 @@ scoop install poldi/<app>
 
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [octosql](https://github.com/cube2222/octosql) - A query tool to join, analyse and transform data from multiple databases and file formats using SQL.
 
 </details>
@@ -83,6 +82,7 @@ scoop install poldi/<app>
 
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
+- [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
