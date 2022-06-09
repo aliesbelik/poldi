@@ -40,6 +40,7 @@ scoop install poldi/<app>
   <summary><strong>Misc</strong></summary>
 
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
+- [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [octosql](https://github.com/cube2222/octosql) - A query tool to join, analyse and transform data from multiple databases and file formats using SQL.
 
