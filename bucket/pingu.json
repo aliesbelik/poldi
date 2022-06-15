@@ -1,0 +1,31 @@
+{
+    "version": "0.0.2",
+    "description": "Ping command implementation but with pingu ASCII art",
+    "homepage": "https://github.com/sheepla/pingu",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sheepla/pingu/releases/download/v0.0.2/pingu_0.0.2_Windows_x86_64.zip",
+            "hash": "607cc26c6255d3f6e83e9530fb4597047c33a01852dada93699d50e4ea2b89b4"
+        },
+        "32bit": {
+            "url": "https://github.com/sheepla/pingu/releases/download/v0.0.2/pingu_0.0.2_Windows_i386.zip",
+            "hash": "64cf0190f2617c14449f6c5d3299942052b0cb77e79c1c652adbb4bd4f4ff795"
+        }
+    },
+    "bin": "pingu.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/sheepla/pingu/releases/download/v$version/pingu_$version_Windows_x86_64.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/sheepla/pingu/releases/download/v$version/pingu_$version_Windows_i386.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}
