@@ -1,12 +1,12 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.1",
     "description": "A query tool to join, analyse and transform data from multiple databases and file formats using SQL",
     "homepage": "https://github.com/cube2222/octosql",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cube2222/octosql/releases/download/v0.8.0/octosql_0.8.0_windows_amd64.tar.gz",
-            "hash": "0efb867db8c77b1b10899669f0b4aa6ed26adc156dd50bf5e7ad8f6764fbc4ce"
+            "url": "https://github.com/cube2222/octosql/releases/download/v0.9.1/octosql_0.9.1_windows_amd64.tar.gz",
+            "hash": "bb95dae20142becf4838aa460e198597fed6b1e869e3a0657fd34be520957178"
         }
     },
     "bin": "octosql.exe",
