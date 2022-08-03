@@ -1,10 +1,10 @@
 {
-    "version": "4.8.2",
+    "version": "4.8.3",
     "description": "A CLI interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1",
     "homepage": "https://github.com/hivemq/mqtt-cli",
     "license": "Apache-2.0",
-    "url": "https://github.com/hivemq/mqtt-cli/releases/download/v4.8.2/mqtt-cli-4.8.2-win.zip",
-    "hash": "46931b2ff3cabac4eddffd480f008fea49cd2b33e2d665ab7f3d0a3764964750",
+    "url": "https://github.com/hivemq/mqtt-cli/releases/download/v4.8.3/mqtt-cli-4.8.3-win.zip",
+    "hash": "4631b3e82ec53581af62f0f8d37c16783b64dc7b288c3b264c6240c3adb7c231",
     "bin": [
         "mqtt-cli.exe",
         [
