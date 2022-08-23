@@ -44,7 +44,6 @@ scoop install poldi/<app>
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
-- [octosql](https://github.com/cube2222/octosql) - A query tool to join, analyse and transform data from multiple databases and file formats using SQL.
 
 </details>
 
@@ -90,6 +89,7 @@ scoop install poldi/<app>
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
+- [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
