@@ -42,7 +42,6 @@ scoop install poldi/<app>
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by `gtop` and `vtop`, written in Go.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [octosql](https://github.com/cube2222/octosql) - A query tool to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -88,6 +87,7 @@ scoop install poldi/<app>
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Migrated, use `main/dnslookup`.
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
+- [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
