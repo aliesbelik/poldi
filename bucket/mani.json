@@ -1,16 +1,16 @@
 {
-    "version": "0.21.0",
+    "version": "0.22.0",
     "description": "A command line tool to help you manage repositories",
     "homepage": "https://manicli.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alajmo/mani/releases/download/v0.21.0/mani_0.21.0_windows_amd64.zip",
-            "hash": "5cfd604e6d4636ddd21cb361fdf9c95baaa38ec8449890f3ecd5b18980e64f0c"
+            "url": "https://github.com/alajmo/mani/releases/download/v0.22.0/mani_0.22.0_windows_amd64.zip",
+            "hash": "fd3dad600a5d545b07d56178c89a599c4db03a3925f0dda505655ed59600a2b3"
         },
         "32bit": {
-            "url": "https://github.com/alajmo/mani/releases/download/v0.21.0/mani_0.21.0_windows_386.zip",
-            "hash": "a5c6b7bbb96f931ba332f7a831562eb0d7680382efa9386a6b7f53037534cbbd"
+            "url": "https://github.com/alajmo/mani/releases/download/v0.22.0/mani_0.22.0_windows_386.zip",
+            "hash": "e828b19a29e8af132f062db69458959b8f6845aa0e194b38ab3644841e04de00"
         }
     },
     "bin": "mani.exe",
