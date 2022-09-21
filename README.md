@@ -43,6 +43,7 @@ scoop install poldi/<app>
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
