@@ -1,12 +1,12 @@
 {
-    "version": "1.12.0",
+    "version": "1.13.0",
     "description": "A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems",
     "homepage": "https://github.com/batchcorp/plumber",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/batchcorp/plumber/releases/download/v1.12.0/plumber-windows.exe#/plumber.exe",
-            "hash": "9013ff1775af472125bce2ee508891639f874c447aa670647ac31425afa677f0"
+            "url": "https://github.com/batchcorp/plumber/releases/download/v1.13.0/plumber-windows.exe#/plumber.exe",
+            "hash": "e52063d44fde1648b6cb90443d2541f4311c45c26d908569344d6aa37bffc039"
         }
     },
     "bin": "plumber.exe",
