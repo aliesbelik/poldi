@@ -1,12 +1,12 @@
 {
-    "version": "1.38.0",
+    "version": "1.38.1",
     "description": "A load testing library, command line tool, advanced echo server and web UI written in Go",
     "homepage": "https://github.com/fortio/fortio",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fortio/fortio/releases/download/v1.38.0/fortio_win_1.38.0.zip",
-            "hash": "81e1209043673eb0501aa2025303e63e4afda082d4923b6c2709304bd2087ca3"
+            "url": "https://github.com/fortio/fortio/releases/download/v1.38.1/fortio_win_1.38.1.zip",
+            "hash": "351be332b566af734898cee8dbb9815ec6dea64c49e0872c53ca1b9c14b3e0a5"
         }
     },
     "bin": "fortio.exe",
