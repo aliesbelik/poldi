@@ -39,6 +39,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Misc</strong></summary>
 
+- [binjr](https://github.com/binjr/binjr) - A standalone time series data browser.
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
