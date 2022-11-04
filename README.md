@@ -60,6 +60,7 @@ scoop install poldi/<app>
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - A simple DNS proxy server with support all existing DNS protocols including DNS-over-TLS, DNS-over-HTTPS, DNS-over-QUIC and DNSCrypt.
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit allow to run multiple DNS queries using `retryabledns` library.
+- [doggo](https://github.com/mr-karan/doggo) - Command-line DNS client for humans, written in Go.
 - [dt](https://github.com/42wim/dt) - DNS tool to display information about your domain.
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
