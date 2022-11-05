@@ -2,7 +2,7 @@
     "version": "0.5.4",
     "description": "Command-line DNS Client for Humans",
     "homepage": "https://doggo.mrkaran.dev/",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
             "url": "https://github.com/mr-karan/doggo/releases/download/v0.5.4/doggo_0.5.4_windows_amd64.tar.gz",
