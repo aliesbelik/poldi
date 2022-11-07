@@ -1,12 +1,12 @@
 {
-    "version": "0.110.0",
+    "version": "0.111.0",
     "description": "Simple gRPC benchmarking and load testing tool",
     "homepage": "https://github.com/bojand/ghz",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bojand/ghz/releases/download/v0.110.0/ghz-windows-x86_64.zip",
-            "hash": "3b28fdbb73bede09f0c2400e56f4d6fdf91434f32c2c5fc419181e7b1030601c"
+            "url": "https://github.com/bojand/ghz/releases/download/v0.111.0/ghz-windows-x86_64.zip",
+            "hash": "096310274567a2d2dcd0b8fe735be8c60dc0773b45840b730c799b83d0a163c9"
         }
     },
     "bin": "ghz.exe",
