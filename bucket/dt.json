@@ -11,6 +11,10 @@
         "32bit": {
             "url": "https://github.com/42wim/dt/releases/download/v1.0.2/dt-1.0.2-windows-386.exe#/dt.exe",
             "hash": "629bc50eeec425cb638374364f8156cee02668604df7224075249a79417cee6d"
+        },
+        "arm64": {
+            "url": "https://github.com/42wim/dt/releases/download/v1.0.2/dt-1.0.2-windows-arm64.exe#/dt.exe",
+            "hash": "aa97aa1a3b0cfffa149a33cac6a786a4c82e5d75322ca1c0ad63588b00b00165"
         }
     },
     "bin": "dt.exe",
@@ -22,6 +26,9 @@
             },
             "32bit": {
                 "url": "https://github.com/42wim/dt/releases/download/v$version/dt-$version-windows-386.exe#/dt.exe"
+            },
+            "arm64": {
+                "url": "https://github.com/42wim/dt/releases/download/v$version/dt-$version-windows-arm64.exe#/dt.exe"
             }
         },
         "hash": {

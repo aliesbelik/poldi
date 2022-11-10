@@ -11,6 +11,10 @@
         "32bit": {
             "url": "https://github.com/miniscruff/changie/releases/download/v1.10.0/changie_1.10.0_windows_386.zip",
             "hash": "08de5fa61d0baf29f5ad5ebc304fe5afc008c552e201c4a72d0922ee0e9b3aae"
+        },
+        "arm64": {
+            "url": "https://github.com/miniscruff/changie/releases/download/v1.10.0/changie_1.10.0_windows_arm64.zip",
+            "hash": "0083c29c4017ff66c0763356e6d142a572c4ce1e2164e0d9043c043d3e507869"
         }
     },
     "bin": "changie.exe",
@@ -24,6 +28,9 @@
             },
             "32bit": {
                 "url": "https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_386.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_arm64.zip"
             }
         },
         "hash": {

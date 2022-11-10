@@ -7,6 +7,10 @@
         "64bit": {
             "url": "https://github.com/fortio/dnsping/releases/download/v1.2.9/dnsping_1.2.9_Windows_x86_64.tar.gz",
             "hash": "85a5c976f6eb0a3c99e632d887afb93ceeca80217fb1de7cba3a586597639279"
+        },
+        "arm64": {
+            "url": "https://github.com/fortio/dnsping/releases/download/v1.2.9/dnsping_1.2.9_Windows_arm64.tar.gz",
+            "hash": "007a94d5a3cb43ba80fde68275a215c2a9f24ad8443c9f33655260f299cd923f"
         }
     },
     "bin": "dnsping.exe",
@@ -15,6 +19,9 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/fortio/dnsping/releases/download/v$version/dnsping_$version_Windows_x86_64.tar.gz"
+            },
+            "arm64": {
+                "url": "https://github.com/fortio/dnsping/releases/download/v$version/dnsping_$version_Windows_arm64.tar.gz"
             }
         },
         "hash": {
