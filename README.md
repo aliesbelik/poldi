@@ -64,6 +64,7 @@ scoop install poldi/<app>
 - [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit allow to run multiple DNS queries using `retryabledns` library.
 - [dt](https://github.com/42wim/dt) - DNS tool to display information about your domain.
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
+- [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
