@@ -51,6 +51,7 @@ scoop install poldi/<app>
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
+- [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
 
 </details>
 
