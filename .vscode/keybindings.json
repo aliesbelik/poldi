@@ -1,0 +1,10 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+shift+a",
+        "command": "editor.action.codeAction",
+        "args": {
+            "kind": "source.fixAll.sortJSON"
+        }
+    }
+]

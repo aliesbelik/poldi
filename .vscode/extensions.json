@@ -2,6 +2,7 @@
     "recommendations": [
         "EditorConfig.EditorConfig",
         "DavidAnson.vscode-markdownlint",
-        "ms-vscode.PowerShell"
+        "ms-vscode.PowerShell",
+        "richie5um2.vscode-sort-json"
     ]
 }
