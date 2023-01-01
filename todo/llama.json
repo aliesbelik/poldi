@@ -1,16 +1,16 @@
 {
-    "version": "1.2.0",
+    "version": "1.4.0",
     "description": "Terminal file manager",
     "homepage": "https://github.com/antonmedv/llama",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/antonmedv/llama/releases/download/v1.2.0/llama_windows_amd64.exe#/llama.exe",
-            "hash": "ad95e614695f6d9b971c635203c26160e154dbd779b87df6106a53605cc9f2f1"
+            "url": "https://github.com/antonmedv/llama/releases/download/v1.4.0/llama_windows_amd64.exe#/llama.exe",
+            "hash": "1f554f7ee4ec7a2115cba5a6dc6d89e32975931881cee9f1eec308d7dd4ab969"
         },
         "arm64": {
-            "url": "https://github.com/antonmedv/llama/releases/download/v1.2.0/llama_windows_arm64.exe#/llama.exe",
-            "hash": "b41dd7cdf972ee817097c2501420a92945696d000e58147a7786d95ad9ad6040"
+            "url": "https://github.com/antonmedv/llama/releases/download/v1.4.0/llama_windows_arm64.exe#/llama.exe",
+            "hash": "f456189324fe34b01d571419ebefa4585b99130e210e83666bf67602087bb627"
         }
     },
     "bin": "llama.exe",
