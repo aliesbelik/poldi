@@ -78,6 +78,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Productivity</strong></summary>
 
+- [ck-cli](https://github.com/clippingkk/cli) - A CLI tool to parse Amazon's My Clippings.txt to JSON format.
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 - [focus](https://github.com/ayoisaiah/focus) - A command-line productivity timer based on the Pomodoro Technique.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
