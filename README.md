@@ -20,7 +20,6 @@ scoop install poldi/<app>
 - [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
 - [beast](https://github.com/jjmrocha/beast) - Stress testing tool for RESTful APIs.
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
-- [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go.
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
@@ -103,6 +102,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Migrated</strong></summary>
 
+- [bombardier](https://github.com/codesenberg/bombardier) - Migrated, use `main/bombardier`.
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Migrated, use `main/dnslookup`.
