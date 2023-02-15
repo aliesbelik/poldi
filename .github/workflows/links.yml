@@ -1,0 +1,35 @@
+name: Links Validator
+
+on:
+  workflow_dispatch:
+  schedule:
+    # run every Monday at 5 AM
+    - cron: '0 5 * * 1'
+
+jobs:
+  link_checker:
+    name: Link checker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.5.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: --verbose --no-progress --timeout 60 --max-concurrency 2 --exclude 'scoop.sh' -- './**/*.md'
+          output: ./lychee/out.md
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=now::$(date +'%Y-%m-%d')"
+
+      - name: Create issue on fail
+        if: ${{ steps.lychee.outputs.exit_code }} != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Automated Links Checker Report for ${{ steps.date.outputs.now }}
+          content-filepath: ./lychee/out.md
+          labels: links-validator
