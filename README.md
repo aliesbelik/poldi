@@ -46,6 +46,7 @@ scoop install poldi/<app>
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
+- [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [ov](https://github.com/noborus/ov) - A feature-rich terminal-based text viewer.
