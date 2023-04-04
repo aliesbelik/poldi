@@ -68,6 +68,7 @@ scoop install poldi/<app>
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit allow to run multiple DNS queries using `retryabledns` library.
 - [dt](https://github.com/42wim/dt) - DNS tool to display information about your domain.
+- [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal.
 - [goreplay](https://github.com/buger/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis.
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
