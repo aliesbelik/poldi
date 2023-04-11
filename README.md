@@ -45,6 +45,7 @@ scoop install poldi/<app>
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
+- [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
