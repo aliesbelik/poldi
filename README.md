@@ -86,7 +86,6 @@ scoop install poldi/<app>
 
 - [ck-cli](https://github.com/clippingkk/cli) - A CLI tool to parse Amazon's My Clippings.txt to JSON format.
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
-- [focus](https://github.com/ayoisaiah/focus) - A command-line productivity timer based on the Pomodoro Technique.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 
 </details>
@@ -117,6 +116,7 @@ scoop install poldi/<app>
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Migrated, use `main/dnsproxy`.
 - [doggo](https://github.com/mr-karan/doggo) - Migrated, use `main/doggo`.
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
+- [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
