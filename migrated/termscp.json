@@ -1,16 +1,18 @@
 {
-    "version": "0.11.1",
+    "version": "0.11.2",
     "description": "A feature rich terminal file transfer and explorer with SCP/SFTP/FTP/S3 support",
-    "homepage": "https://github.com/veeso/termscp",
+    "homepage": "https://termscp.veeso.dev/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/veeso/termscp/releases/download/v0.11.1/termscp-v0.11.1-x86_64-pc-windows-msvc.zip",
-            "hash": "dc08eb1459eb23548fd6417f3172d3e7c5628759edd48078f13d469a317b2d4c"
+            "url": "https://github.com/veeso/termscp/releases/download/v0.11.2/termscp-v0.11.2-x86_64-pc-windows-msvc.zip",
+            "hash": "9ec046c8e01de5a6e5b86733c11304dd6ce094a13202b516f4d4a5c015b5e424"
         }
     },
     "bin": "termscp.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/veeso/termscp"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
