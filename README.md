@@ -58,6 +58,7 @@ scoop install poldi/<app>
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
+- [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
 
 </details>
