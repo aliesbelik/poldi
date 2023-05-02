@@ -21,6 +21,7 @@ scoop install poldi/<app>
 - [beast](https://github.com/jjmrocha/beast) - Stress testing tool for RESTful APIs.
 - [blast](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs, written in Go.
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
+- [clobbr-cli](https://github.com/parsecph/clobbr) - A CLI tool to test API endpoint speed.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
 - [gocannon](https://github.com/kffl/gocannon) - Performance-focused HTTP load testing tool written in Go.
