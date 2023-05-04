@@ -110,7 +110,7 @@ scoop install poldi/<app>
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
-- [plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
+- [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
 - [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.

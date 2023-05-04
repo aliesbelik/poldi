@@ -1,11 +1,11 @@
 {
     "version": "2.4.0",
     "description": "A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems",
-    "homepage": "https://github.com/batchcorp/plumber",
+    "homepage": "https://github.com/streamdal/plumber",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/batchcorp/plumber/releases/download/v2.4.0/plumber-windows.exe#/plumber.exe",
+            "url": "https://github.com/streamdal/plumber/releases/download/v2.4.0/plumber-windows.exe#/plumber.exe",
             "hash": "92a27318271ffa8882413462cd353ceebb3800963edba957468214b64812eb4c"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/batchcorp/plumber/releases/download/v$version/plumber-windows.exe#/plumber.exe"
+                "url": "https://github.com/streamdal/plumber/releases/download/v$version/plumber-windows.exe#/plumber.exe"
             }
         }
     }
