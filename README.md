@@ -40,6 +40,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>DevOps</strong></summary>
 
+- [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the Terraform plan.
 - [werf](https://github.com/werf/werf) - A CNCF Sandbox CLI tool to implement full-cycle CI/CD to Kubernetes easily.
 - [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
 
