@@ -26,6 +26,7 @@ scoop install poldi/<app>
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
 - [gocannon](https://github.com/kffl/gocannon) - Performance-focused HTTP load testing tool written in Go.
 - [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
+- [goku-bench](https://github.com/jcaromiq/goku) - Another HTTP load testing application written in Rust, inspired by `drill` and `vegeta`.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [ntttcp](https://github.com/microsoft/ntttcp) - A Windows network throughput benchmarking tool.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
