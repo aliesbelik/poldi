@@ -41,8 +41,9 @@ scoop install poldi/<app>
 <details>
   <summary><strong>DevOps</strong></summary>
 
-- [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+- [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the Terraform plan.
+- [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 - [werf](https://github.com/werf/werf) - A CNCF Sandbox CLI tool to implement full-cycle CI/CD to Kubernetes easily.
 - [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
 
