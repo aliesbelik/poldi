@@ -41,6 +41,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>DevOps</strong></summary>
 
+- [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the Terraform plan.
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
