@@ -65,7 +65,6 @@ scoop install poldi/<app>
 - [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
 - [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
-- [ov](https://github.com/noborus/ov) - A feature-rich terminal-based text viewer.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
@@ -138,6 +137,7 @@ scoop install poldi/<app>
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
+- [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 
