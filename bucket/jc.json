@@ -1,12 +1,12 @@
 {
-    "version": "1.23.2",
+    "version": "1.23.3",
     "description": "CLI JSON converter",
     "homepage": "https://github.com/kellyjonbrazil/jc",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kellyjonbrazil/jc/releases/download/v1.23.2/jc-1.23.2-windows.zip",
-            "hash": "d629e904b15dcf33aca28dab499699a6da97810beac492e3ec2109e18bee24b7"
+            "url": "https://github.com/kellyjonbrazil/jc/releases/download/v1.23.3/jc-1.23.3-windows.zip",
+            "hash": "170f335da0490c57c5d968142f49e10e12438977368fd504b6196ec9a32d7b7c"
         }
     },
     "bin": "jc.exe",
