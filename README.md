@@ -140,6 +140,7 @@ scoop install poldi/<app>
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
+- [llama](https://github.com/antonmedv/llama) -  Migrated, use `main/llama`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
