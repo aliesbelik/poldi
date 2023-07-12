@@ -66,7 +66,6 @@ scoop install poldi/<app>
 - [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
-- [jc](https://github.com/kellyjonbrazil/jc) - CLI converter from the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
@@ -139,6 +138,7 @@ scoop install poldi/<app>
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
+- [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [llama](https://github.com/antonmedv/llama) -  Migrated, use `main/llama`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
