@@ -72,6 +72,7 @@ scoop install poldi/<app>
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
+- [taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
