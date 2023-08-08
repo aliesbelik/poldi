@@ -61,6 +61,7 @@ scoop install poldi/<app>
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
