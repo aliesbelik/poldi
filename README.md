@@ -118,6 +118,7 @@ scoop install poldi/<app>
   <summary><strong>Testing</strong></summary>
 
 - [ain](https://github.com/jonaslu/ain) - A terminal API client, alternative to `postman`, `paw` or `insomnia`.
+- [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of `postman`.
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - MQTT 5.0 and 3.1.1 compatible and feature-rich MQTT CLI tool.
