@@ -146,11 +146,11 @@ scoop install poldi/<app>
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
-- [llama](https://github.com/antonmedv/llama) -  Migrated, use `main/llama`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
+- [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/llama`.
 
 </details>
