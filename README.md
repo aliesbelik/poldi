@@ -27,6 +27,7 @@ scoop install poldi/<app>
 - [gocannon](https://github.com/kffl/gocannon) - Performance-focused HTTP load testing tool written in Go.
 - [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
 - [goku-bench](https://github.com/jcaromiq/goku) - Another HTTP load testing application written in Rust, inspired by `drill` and `vegeta`.
+- [gopayloader](https://github.com/domsolutions/gopayloader) - HTTP/S benchmark/load testing cross-platform tool with optional JWT generation, inspired by `bombardier`.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [ntttcp](https://github.com/microsoft/ntttcp) - A Windows network throughput benchmarking tool.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
@@ -151,6 +152,6 @@ scoop install poldi/<app>
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
-- [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/llama`.
+- [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
 
 </details>
