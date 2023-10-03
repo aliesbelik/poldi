@@ -104,6 +104,7 @@ scoop install poldi/<app>
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency.
 - [tcping-go](https://github.com/cloverstd/tcping) - Ping over a TCP connection, like `tcping`, written in Go.
 - [tlsx](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection.
+- [whris](https://github.com/harakeishi/whris) - A CLI tool to display management information for IPs associated with the domain.
 
 </details>
 
