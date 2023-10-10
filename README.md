@@ -66,6 +66,7 @@ scoop install poldi/<app>
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
+- [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
