@@ -21,6 +21,7 @@ jobs:
         with:
           args: --verbose --no-progress --timeout 60 --max-concurrency 2 --exclude 'scoop.sh' -- './**/*.md'
           output: ./lychee/out.md
+          fail: true
 
       - name: Get current date
         id: date
