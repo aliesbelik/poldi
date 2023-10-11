@@ -25,7 +25,7 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "::set-output name=now::$(date +'%Y-%m-%d')"
+        run: echo "now=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
       - name: Create issue on fail
         if: env.lychee_exit_code != 0
