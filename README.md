@@ -48,7 +48,6 @@ scoop install poldi/<app>
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
-- [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the Terraform plan.
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 - [werf](https://github.com/werf/werf) - A CNCF Sandbox CLI tool to implement full-cycle CI/CD to Kubernetes easily.
 - [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
@@ -160,6 +159,7 @@ scoop install poldi/<app>
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
+- [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
 
 </details>
