@@ -72,6 +72,7 @@ scoop install poldi/<app>
 - [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
+- [jaq](https://github.com/01mf02/jaq) - A `jq` clone focussed on correctness, speed, and simplicity.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
