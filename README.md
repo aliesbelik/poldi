@@ -64,6 +64,7 @@ scoop install poldi/<app>
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [ente-cli](https://github.com/ente-io/cli) - A CLI utility for exporting data from Ente Photos.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
