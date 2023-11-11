@@ -1,6 +1,7 @@
 # :owl: Poldi
 
-Personal bucket for lovely [Scoop](https://scoop.sh/).
+Personal bucket for lovely [Scoop](https://scoop.sh/).\
+Made for personal use, free for everyone.
 
 ## Usage
 
@@ -55,6 +56,15 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Git</strong></summary>
+
+- [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
+- [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud git repositories.
+- [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
+
+</details>
+
+<details>
   <summary><strong>Misc</strong></summary>
 
 - [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates.
@@ -67,11 +77,9 @@ scoop install poldi/<app>
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
-- [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
 - [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
-- [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/hq) - Like `jq`, but for HTML.
 - [jaq](https://github.com/01mf02/jaq) - A `jq` clone focussed on correctness, speed, and simplicity.
