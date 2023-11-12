@@ -59,7 +59,7 @@ scoop install poldi/<app>
   <summary><strong>Git</strong></summary>
 
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
-- [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud git repositories.
+- [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
 - [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 
 </details>
@@ -128,6 +128,7 @@ scoop install poldi/<app>
 - [dijo](https://github.com/NerdyPepper/dijo) - Scriptable, curses-based, digital habit tracker.
 - [hmm](https://github.com/samwho/hmm) - A small command-line note taking app written in Rust.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
+- [ttdl](https://github.com/VladimirMarkelov/ttdl) - Terminal ToDo List (TTDL) manager using plain text todo.txt format.
 
 </details>
 
