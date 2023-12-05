@@ -61,7 +61,6 @@ scoop install poldi/<app>
 
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching Github repository.
 - [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
-- [gut](https://github.com/julien040/gut) - An easy to use Git client for the command-line.
 
 </details>
 
@@ -168,6 +167,7 @@ scoop install poldi/<app>
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
+- [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
