@@ -68,6 +68,7 @@ scoop install poldi/<app>
   <summary><strong>Misc</strong></summary>
 
 - [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates.
+- [assh](https://github.com/moul/assh) - A transparent wrapper that adds support for regex, aliases, gateways, dynamic hostnames, graphviz, json output, yaml configuration, and more to SSH.
 - [binjr](https://github.com/binjr/binjr) - A standalone time series data browser.
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
