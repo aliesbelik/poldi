@@ -25,6 +25,7 @@ scoop install poldi/<app>
 - [clobbr-cli](https://github.com/parsecph/clobbr) - A CLI tool to test API endpoint speed.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
 - [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
+- [gobench](https://github.com/EricNeid/go-bench) - HTTP/HTTPS load testing and benchmarking tool written in Go.
 - [gocannon](https://github.com/kffl/gocannon) - Performance-focused HTTP load testing tool written in Go.
 - [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
 - [goku-bench](https://github.com/jcaromiq/goku) - Another HTTP load testing application written in Rust, inspired by `drill` and `vegeta`.
