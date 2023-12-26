@@ -84,7 +84,6 @@ scoop install poldi/<app>
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
-- [jaq](https://github.com/01mf02/jaq) - A `jq` clone focussed on correctness, speed, and simplicity.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
@@ -172,6 +171,7 @@ scoop install poldi/<app>
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
+- [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
