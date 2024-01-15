@@ -75,6 +75,7 @@ scoop install poldi/<app>
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
 - [ente-cli](https://github.com/ente-io/cli) - A CLI utility for exporting data from Ente Photos.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
