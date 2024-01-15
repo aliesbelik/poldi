@@ -92,7 +92,6 @@ scoop install poldi/<app>
 - [riff](https://github.com/walles/riff) - Refining Diff, a wrapper around `diff` that highlights which parts of lines have changed.
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
-- [tailspin](https://github.com/bensadeh/tailspin) - A log file highlighter.
 - [taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
@@ -178,6 +177,7 @@ scoop install poldi/<app>
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
+- [tailspin](https://github.com/bensadeh/tailspin) - Migrated, use `main/tailspin`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
