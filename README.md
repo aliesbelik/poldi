@@ -96,6 +96,7 @@ scoop install poldi/<app>
 - [taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
+- [wait4x](https://github.com/atkrad/wait4x) - Wait for a port or a service to enter the requested state, with a customizable timeout and interval time.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
