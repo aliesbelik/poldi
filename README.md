@@ -151,7 +151,6 @@ scoop install poldi/<app>
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
-- [restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client, alternative to `postman` and `insomnia`.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
 - [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
@@ -179,6 +178,7 @@ scoop install poldi/<app>
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
+- [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [tailspin](https://github.com/bensadeh/tailspin) - Migrated, use `main/tailspin`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
