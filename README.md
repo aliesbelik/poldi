@@ -52,6 +52,7 @@ scoop install poldi/<app>
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+- [updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings.
 - [werf](https://github.com/werf/werf) - A CNCF Sandbox CLI tool to implement full-cycle CI/CD to Kubernetes easily.
 - [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
 
