@@ -47,6 +47,7 @@ scoop install poldi/<app>
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - A CLI tool for managing Apache Kafka.
 - [kafta](https://github.com/electric-saw/kafta) - A modern non-JVM command-line for managing Kafka clusters written in Go.
+- [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [kcli](https://github.com/cswank/kcli) - A Kafka read-only command-line browser.
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
