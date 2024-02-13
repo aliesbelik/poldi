@@ -98,6 +98,7 @@ scoop install poldi/<app>
 - [riff](https://github.com/walles/riff) - Refining Diff, a wrapper around `diff` that highlights which parts of lines have changed.
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
+- [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [wait4x](https://github.com/atkrad/wait4x) - Wait for a port or a service to enter the requested state, with a customizable timeout and interval time.
