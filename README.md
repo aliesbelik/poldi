@@ -46,6 +46,7 @@ scoop install poldi/<app>
 
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
+- [helmsman](https://github.com/Praqma/helmsman) - A Helm charts as code tool to automate the deployment/management of Helm charts from version controlled code.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - A CLI tool for managing Apache Kafka.
 - [kafta](https://github.com/electric-saw/kafta) - A modern non-JVM command-line for managing Kafka clusters written in Go.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
