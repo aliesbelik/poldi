@@ -53,6 +53,7 @@ scoop install poldi/<app>
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [kcli](https://github.com/cswank/kcli) - A Kafka read-only command-line browser.
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
+- [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
 - [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control docker containers.
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
