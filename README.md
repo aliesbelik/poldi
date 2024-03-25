@@ -85,7 +85,7 @@ scoop install poldi/<app>
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
-- [ente-cli](https://github.com/ente-io/cli) - A CLI utility for exporting data from Ente Photos.
+- [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
@@ -102,6 +102,7 @@ scoop install poldi/<app>
 - [riff](https://github.com/walles/riff) - Refining Diff, a wrapper around `diff` that highlights which parts of lines have changed.
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
+- [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
