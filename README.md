@@ -46,6 +46,7 @@ scoop install poldi/<app>
   <summary><strong>DevOps</strong></summary>
 
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
+- [dry](https://github.com/moncho/dry) - A terminal application to manage and monitor Docker containers.
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
 - [helmsman](https://github.com/Praqma/helmsman) - A Helm charts as code tool to automate the deployment/management of Helm charts from version controlled code.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - A CLI tool for managing Apache Kafka.
