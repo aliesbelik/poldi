@@ -87,6 +87,7 @@ scoop install poldi/<app>
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
+- [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
