@@ -162,6 +162,7 @@ scoop install poldi/<app>
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of `postman`.
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
+- [mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
