@@ -106,6 +106,7 @@ scoop install poldi/<app>
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
 - [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
+- [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
