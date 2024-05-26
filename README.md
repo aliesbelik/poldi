@@ -155,6 +155,7 @@ scoop install poldi/<app>
 - [hmm](https://github.com/samwho/hmm) - A small command-line note taking app written in Rust.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format.
+- [todoist-cli](https://github.com/sachaos/todoist) - Todoist CLI cLient, written in Golang.
 
 </details>
 
