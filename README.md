@@ -100,6 +100,7 @@ scoop install poldi/<app>
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
+- [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.`
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
