@@ -43,6 +43,13 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Development</strong></summary>
+
+- [cpa](https://github.com/ysawa0/create-python-app) - A CLI tool for ultra fast setup of Rust & Python projects.
+
+</details>
+
+<details>
   <summary><strong>DevOps</strong></summary>
 
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
