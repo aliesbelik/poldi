@@ -111,6 +111,7 @@ scoop install poldi/<app>
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
+- [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [qv](https://github.com/timvw/qv) - A simple CLI to quickly view your data.
 - [riff](https://github.com/walles/riff) - Refining Diff, a wrapper around `diff` that highlights which parts of lines have changed.
