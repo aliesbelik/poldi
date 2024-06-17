@@ -123,7 +123,6 @@ scoop install poldi/<app>
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
-- [wait4x](https://github.com/atkrad/wait4x) - Wait for a port or a service to enter the requested state, with a customizable timeout and interval time.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
@@ -217,6 +216,7 @@ scoop install poldi/<app>
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
 - [ttdl](https://github.com/VladimirMarkelov/ttdl) - Migrated, use `extras/ttdl`.
+- [wait4x](https://github.com/atkrad/wait4x) - Migrated, use `extras/wait4x`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
 
 </details>
