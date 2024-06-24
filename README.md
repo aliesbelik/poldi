@@ -181,6 +181,7 @@ scoop install poldi/<app>
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
+- [nap](https://github.com/davesheldon/nap) - A command-line tool that utilizes YAML files to test APIs.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
