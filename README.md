@@ -91,6 +91,7 @@ scoop install poldi/<app>
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
+- [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
