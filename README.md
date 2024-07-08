@@ -95,6 +95,7 @@ scoop install poldi/<app>
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [dyff](https://github.com/homeport/dyff) - Diff tool for YAML files, and sometimes JSON.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
