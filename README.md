@@ -137,6 +137,7 @@ scoop install poldi/<app>
 
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
+- [cidr](https://github.com/bschaatsbergen/cidr) - A CLI tool to perform various actions on CIDR ranges.
 - [dnsping](https://github.com/fortio/dnsping) - DNS ping utility to check packet loss and latency issues with DNS servers.
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit allow to run multiple DNS queries using `retryabledns` library.
