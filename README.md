@@ -118,7 +118,6 @@ scoop install poldi/<app>
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [qv](https://github.com/timvw/qv) - A simple CLI to quickly view your data.
-- [riff](https://github.com/walles/riff) - Refining Diff, a wrapper around `diff` that highlights which parts of lines have changed.
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
 - [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
@@ -218,6 +217,7 @@ scoop install poldi/<app>
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
+- [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
 - [tailspin](https://github.com/bensadeh/tailspin) - Migrated, use `main/tailspin`.
 - [taplo](https://github.com/tamasfe/taplo) - Migrated, use `main/taplo`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
