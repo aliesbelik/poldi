@@ -16,6 +16,14 @@ scoop install poldi/<app>
 > Only apps NOT available in `scoop bucket known` buckets.
 
 <details>
+  <summary><strong>AI</strong></summary>
+
+- [tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys.
+- [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+
+</details>
+
+<details>
   <summary><strong>Benchmarking</strong></summary>
 
 - [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
@@ -124,7 +132,6 @@ scoop install poldi/<app>
 - [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager.
-- [tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys.
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
