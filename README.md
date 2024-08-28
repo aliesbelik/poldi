@@ -51,6 +51,14 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Database</strong></summary>
+
+- [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
+- [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for PostgreSQL.
+
+</details>
+
+<details>
   <summary><strong>Development</strong></summary>
 
 - [cpa](https://github.com/ysawa0/create-python-app) - A CLI tool for ultra fast setup of Rust & Python projects.
@@ -122,7 +130,6 @@ scoop install poldi/<app>
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.`
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
-- [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
