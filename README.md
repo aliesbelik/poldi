@@ -125,6 +125,7 @@ scoop install poldi/<app>
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
+- [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.`
