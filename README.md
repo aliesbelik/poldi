@@ -124,6 +124,7 @@ scoop install poldi/<app>
 - [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
+- [gomi](https://github.com/babarot/gomi) - A simple CLI trash tool, written in Go.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
