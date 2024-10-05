@@ -70,6 +70,7 @@ scoop install poldi/<app>
 
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
 - [dry](https://github.com/moncho/dry) - A terminal application to manage and monitor Docker containers.
+- [gocker](https://github.com/pommee/gocker) - A TUI tool for Docker management.
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
 - [helmsman](https://github.com/Praqma/helmsman) - A Helm charts as code tool to automate the deployment/management of Helm charts from version controlled code.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - A CLI tool for managing Apache Kafka.
@@ -79,7 +80,7 @@ scoop install poldi/<app>
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
 - [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
 - [kubewall](https://github.com/kubewall/kubewall) - A single binary Kubernetes dashboard to manage multiple clusters.
-- [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control docker containers.
+- [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control Docker containers.
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
