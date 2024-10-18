@@ -131,8 +131,9 @@ scoop install poldi/<app>
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [jlv](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
+- [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
-- [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.`
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
