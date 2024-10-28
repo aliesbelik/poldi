@@ -53,6 +53,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Database</strong></summary>
 
+- [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for PostgreSQL.
 
