@@ -132,6 +132,7 @@ scoop install poldi/<app>
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [gomi](https://github.com/babarot/gomi) - A simple CLI trash tool, written in Go.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
+- [hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
