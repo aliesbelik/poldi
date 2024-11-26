@@ -157,6 +157,7 @@ scoop install poldi/<app>
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
+- [yamlfmt](https://github.com/google/yamlfmt) - An extensible command-line tool or library to format YAML files.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
 
 </details>
