@@ -64,6 +64,7 @@ scoop install poldi/<app>
   <summary><strong>Development</strong></summary>
 
 - [cpa](https://github.com/ysawa0/create-python-app) - A CLI tool for ultra fast setup of Rust & Python projects.
+- [ktor-cli](https://github.com/ktorio/ktor-cli) - Command-line tool for creating Ktor projects.
 
 </details>
 
