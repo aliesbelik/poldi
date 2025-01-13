@@ -159,6 +159,7 @@ scoop install poldi/<app>
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
+- [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yamlfmt](https://github.com/google/yamlfmt) - An extensible command-line tool or library to format YAML files.
