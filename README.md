@@ -188,6 +188,7 @@ scoop install poldi/<app>
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife proxy tool for HTTP/HTTPS traffic capture, manipulation and replay written in Go.
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency.
+- [speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to test internet speed using speedtest.net.
 - [tcping-go](https://github.com/cloverstd/tcping) - Ping over a TCP connection, like `tcping`, written in Go.
 - [tlsx](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection.
 - [whris](https://github.com/harakeishi/whris) - A CLI tool to display management information for IPs associated with the domain.
