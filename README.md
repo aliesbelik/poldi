@@ -202,6 +202,7 @@ scoop install poldi/<app>
 - [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line.
 - [chrono](https://github.com/gochrono/chrono) - A fast time tracking tool, written in Go.
 - [ck-cli](https://github.com/clippingkk/cli) - A CLI tool to parse Amazon's My Clippings.txt to JSON format.
+- [cleed](https://github.com/radulucut/cleed) - A simple feed reader for the command line.
 - [dijo](https://github.com/oppiliappan/dijo) - Scriptable, curses-based, digital habit tracker.
 - [hmm](https://github.com/samwho/hmm) - A small command-line note taking app written in Rust.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
