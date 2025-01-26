@@ -27,6 +27,7 @@ scoop install poldi/<app>
   <summary><strong>Anti-censorship</strong></summary>
 
 - [byedpi](https://github.com/hufrea/byedpi) - Bypass DPI.
+- [karing](https://github.com/KaringX/karing) - A simple & powerful proxy utility, with support of routing rules for clash/sing-box.
 
 </details>
 
