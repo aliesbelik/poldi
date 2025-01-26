@@ -24,6 +24,13 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Anti-censorship</strong></summary>
+
+- [byedpi](https://github.com/hufrea/byedpi) - Bypass DPI.
+
+</details>
+
+<details>
   <summary><strong>Benchmarking</strong></summary>
 
 - [ali](https://github.com/nakabonne/ali) - A HTTP load testing tool capable of performing real-time analysis, inspired by `vegeta` and `jplot`.
