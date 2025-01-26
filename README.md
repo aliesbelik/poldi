@@ -26,6 +26,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Anti-censorship</strong></summary>
 
+- [bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in Go.
 - [byedpi](https://github.com/hufrea/byedpi) - Bypass DPI.
 - [karing](https://github.com/KaringX/karing) - A simple & powerful proxy utility, with support of routing rules for clash/sing-box.
 - [spoofdpi](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go.
