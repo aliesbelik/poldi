@@ -154,6 +154,7 @@ scoop install poldi/<app>
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
+- [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
