@@ -140,6 +140,7 @@ scoop install poldi/<app>
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
+- [godap](https://github.com/Macmod/godap) - A complete TUI for LDAP.
 - [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
