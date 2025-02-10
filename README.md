@@ -169,7 +169,6 @@ scoop install poldi/<app>
 - [sqly](https://github.com/nao1215/sqly) - A powerful command-line tool to execute SQL against CSV, TSV, LTSV, JSON, and Microsoft Excel files.
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
-- [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
 - [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
@@ -271,6 +270,7 @@ scoop install poldi/<app>
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
 - [sshs](https://github.com/quantumsheep/sshs) - Migrated, use `extras/sshs`.
+- [superfile](https://github.com/yorukot/superfile) - Migrated, use `main/superfile`.
 - [tailspin](https://github.com/bensadeh/tailspin) - Migrated, use `main/tailspin`.
 - [taplo](https://github.com/tamasfe/taplo) - Migrated, use `main/taplo`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
