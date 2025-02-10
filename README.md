@@ -177,7 +177,6 @@ scoop install poldi/<app>
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
-- [yamlfmt](https://github.com/google/yamlfmt) - An extensible command-line tool or library to format YAML files.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
 
 </details>
@@ -280,5 +279,6 @@ scoop install poldi/<app>
 - [ttdl](https://github.com/VladimirMarkelov/ttdl) - Migrated, use `extras/ttdl`.
 - [wait4x](https://github.com/atkrad/wait4x) - Migrated, use `extras/wait4x`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
+- [yamlfmt](https://github.com/google/yamlfmt) - Migrated, use `main/yamlfmt`.
 
 </details>
