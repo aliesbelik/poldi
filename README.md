@@ -138,6 +138,7 @@ scoop install poldi/<app>
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
+- [flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
