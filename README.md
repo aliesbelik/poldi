@@ -42,7 +42,6 @@ scoop install poldi/<app>
 - [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in Go, inspired by `k6`, `ab` & `httpstat`.
 - [clobbr-cli](https://github.com/parsecph/clobbr) - A CLI tool to test API endpoint speed.
 - [fortio](https://github.com/fortio/fortio) - A HTTP/gRPC load testing library, CLI tool, advanced echo server and web UI written in Go.
-- [ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool written in Go.
 - [gobench](https://github.com/EricNeid/go-bench) - HTTP/HTTPS load testing and benchmarking tool written in Go.
 - [gocannon](https://github.com/kffl/gocannon) - Performance-focused HTTP load testing tool written in Go.
 - [goku](https://github.com/k-nasa/goku) - A HTTP load testing application written in Rust.
@@ -258,6 +257,7 @@ scoop install poldi/<app>
 - [doggo](https://github.com/mr-karan/doggo) - Migrated, use `main/doggo`.
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
+- [ghz](https://github.com/bojand/ghz) - Migrated, use `main/ghz`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
