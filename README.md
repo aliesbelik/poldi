@@ -182,7 +182,6 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Network</strong></summary>
 
-- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
 - [cidr](https://github.com/bschaatsbergen/cidr) - A CLI tool to perform various actions on CIDR ranges.
 - [dnsping](https://github.com/fortio/dnsping) - DNS ping utility to check packet loss and latency issues with DNS servers.
@@ -248,6 +247,7 @@ scoop install poldi/<app>
   <summary><strong>Migrated</strong></summary>
 
 - [atac](https://github.com/Julien-cpsn/ATAC) - Migrated, use `main/atac`.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Migrated, use `main/bandwhich`.
 - [bombardier](https://github.com/codesenberg/bombardier) - Migrated, use `main/bombardier`.
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
