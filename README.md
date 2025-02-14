@@ -55,7 +55,6 @@ scoop install poldi/<app>
 - [rewrk](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking tool written in Rust, supporting HTTP/1 and HTTP/2 benchmarks.
 - [rip](https://github.com/bjarneo/rip) - An HTTP load testing and UDP flood attack tool written in Go.
 - [terjang](https://github.com/andylibrian/terjang) - Scalable HTTP load testing tool built on `vegeta`.
-- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library written in Go.
 
 </details>
 
@@ -278,6 +277,7 @@ scoop install poldi/<app>
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
 - [ttdl](https://github.com/VladimirMarkelov/ttdl) - Migrated, use `extras/ttdl`.
+- [vegeta](https://github.com/tsenart/vegeta) - Migrated, use `main/vegeta`.
 - [wait4x](https://github.com/atkrad/wait4x) - Migrated, use `extras/wait4x`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
 - [yamlfmt](https://github.com/google/yamlfmt) - Migrated, use `main/yamlfmt`.
