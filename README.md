@@ -228,7 +228,6 @@ scoop install poldi/<app>
   <summary><strong>Testing</strong></summary>
 
 - [ain](https://github.com/jonaslu/ain) - A terminal API client, alternative to `postman`, `paw` or `insomnia`.
-- [atac](https://github.com/Julien-cpsn/ATAC) - A simple `postman` like API client for terminal.
 - [claws](https://github.com/thehowl/claws) - An interactive command-line client for testing WebSockets servers.
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - Generic gRPC command-line client.
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of `postman`.
@@ -248,6 +247,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Migrated</strong></summary>
 
+- [atac](https://github.com/Julien-cpsn/ATAC) - Migrated, use `main/atac`.
 - [bombardier](https://github.com/codesenberg/bombardier) - Migrated, use `main/bombardier`.
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
