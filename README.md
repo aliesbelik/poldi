@@ -138,6 +138,7 @@ scoop install poldi/<app>
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
+- [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
 - [godap](https://github.com/Macmod/godap) - A complete TUI for LDAP.
