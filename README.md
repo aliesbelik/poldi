@@ -230,6 +230,7 @@ scoop install poldi/<app>
 
 - [ain](https://github.com/jonaslu/ain) - A terminal API client, alternative to `postman`, `paw` or `insomnia`.
 - [claws](https://github.com/thehowl/claws) - An interactive command-line client for testing WebSockets servers.
+- [curli](https://github.com/trinhminhtriet/curli) - A lightweight, user-friendly interface for `curl`, blending the simplicity of `HTTPie` with the robust functionality of `curl`.
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - Generic gRPC command-line client.
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of `postman`.
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
