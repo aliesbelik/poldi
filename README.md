@@ -63,6 +63,7 @@ scoop install poldi/<app>
 
 - [atlas](https://github.com/ariga/atlas) - A language-agnostic tool for managing and migrating database schemas as code.
 - [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
+- [lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for PostgreSQL.
 
