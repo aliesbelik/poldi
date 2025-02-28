@@ -137,7 +137,6 @@ scoop install poldi/<app>
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
-- [flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 - [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
@@ -259,6 +258,7 @@ scoop install poldi/<app>
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Migrated, use `main/dnsproxy`.
 - [doggo](https://github.com/mr-karan/doggo) - Migrated, use `main/doggo`.
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
+- [flamelens](https://github.com/YS-L/flamelens) - Migrated, use `extras/flamelens`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
 - [ghz](https://github.com/bojand/ghz) - Migrated, use `main/ghz`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
