@@ -119,6 +119,14 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Infosec</strong></summary>
+
+- [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in Go with a focus on reliability and simplicity.
+- [s3scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs.
+
+</details>
+
+<details>
   <summary><strong>Misc</strong></summary>
 
 - [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates.
@@ -199,7 +207,6 @@ scoop install poldi/<app>
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
-- [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in Go with a focus on reliability and simplicity.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife proxy tool for HTTP/HTTPS traffic capture, manipulation and replay written in Go.
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency.
