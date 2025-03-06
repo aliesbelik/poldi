@@ -115,6 +115,7 @@ scoop install poldi/<app>
 - [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your git repositories.
+- [gitql](https://github.com/filhodanuvem/gitql) - A git query language.
 
 </details>
 
