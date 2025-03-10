@@ -135,6 +135,7 @@ scoop install poldi/<app>
 - [binjr](https://github.com/binjr/binjr) - A standalone time series data browser.
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
+- [convco](https://github.com/convco/convco) - A Conventional Commits CLI tool.
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
 - [diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on `delta` but with a file tree, à la GitHub.
 - [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
