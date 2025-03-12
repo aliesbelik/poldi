@@ -1,8 +1,11 @@
 {
     "version": "1.8.2",
     "description": "A frontend to curl that adds the ease of use of httpie, without compromising on features and performance",
-    "homepage": "https://curlie.io",
+    "homepage": "https://rs.github.io/curlie/",
     "license": "MIT",
+    "suggest": {
+        "curl": "curl"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/rs/curlie/releases/download/v1.8.2/curlie_1.8.2_windows_amd64.zip",
@@ -18,9 +21,6 @@
         }
     },
     "bin": "curlie.exe",
-    "suggest": {
-        "curl": "curl"
-    },
     "checkver": {
         "github": "https://github.com/rs/curlie"
     },
