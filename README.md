@@ -98,6 +98,7 @@ scoop install poldi/<app>
 - [netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads.
 - [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control Docker containers.
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
+- [sou](https://github.com/knqyf263/sou) - A TUI tool for exploring files in container image layers.
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tfmv](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources, data sources, and modules and generate moved blocks.
