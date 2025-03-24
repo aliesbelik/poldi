@@ -295,7 +295,7 @@ scoop install poldi/<app>
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
 - [ttdl](https://github.com/VladimirMarkelov/ttdl) - Migrated, use `extras/ttdl`.
 - [vegeta](https://github.com/tsenart/vegeta) - Migrated, use `main/vegeta`.
-- [wait4x](https://github.com/atkrad/wait4x) - Migrated, use `extras/wait4x`.
+- [wait4x](https://github.com/wait4x/wait4x) - Migrated, use `extras/wait4x`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
 - [yamlfmt](https://github.com/google/yamlfmt) - Migrated, use `main/yamlfmt`.
 
