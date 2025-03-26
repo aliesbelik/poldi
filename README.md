@@ -150,6 +150,7 @@ scoop install poldi/<app>
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
+- [fm](https://github.com/mistakenelf/fm) - A terminal based file manager.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 - [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
