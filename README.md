@@ -211,6 +211,7 @@ scoop install poldi/<app>
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
+- [nping](https://github.com/hanshuaikang/nping) - A ping tool with real-time data and visualizations, written in Rust.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife proxy tool for HTTP/HTTPS traffic capture, manipulation and replay written in Go.
 - [speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency.
