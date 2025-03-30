@@ -63,7 +63,6 @@ scoop install poldi/<app>
 
 - [atlas](https://github.com/ariga/atlas) - A language-agnostic tool for managing and migrating database schemas as code.
 - [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
-- [lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for PostgreSQL.
 
@@ -281,6 +280,7 @@ scoop install poldi/<app>
 - [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
+- [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
