@@ -254,6 +254,7 @@ scoop install poldi/<app>
 - [nap](https://github.com/davesheldon/nap) - A command-line tool that utilizes YAML files to test APIs.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
+- [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI.
 - [slumber](https://github.com/LucasPickering/slumber) - A terminal-based HTTP/REST client.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
 - [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
