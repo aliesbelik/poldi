@@ -181,6 +181,7 @@ scoop install poldi/<app>
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
 - [sq](https://github.com/neilotoole/sq) - A command-line tool that provides `jq`-style access to structured data sources: SQL databases, or document formats like CSV or Excel.
 - [sqly](https://github.com/nao1215/sqly) - A powerful command-line tool to execute SQL against CSV, TSV, LTSV, JSON, and Microsoft Excel files.
+- [srgn](https://github.com/alexpovel/srgn) - A `grep`-like tool which understands source code syntax and allows for manipulation in addition to search.
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
