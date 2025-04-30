@@ -171,6 +171,7 @@ scoop install poldi/<app>
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
+- [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
