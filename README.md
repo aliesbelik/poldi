@@ -187,7 +187,6 @@ scoop install poldi/<app>
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
-- [tlrc](https://github.com/tldr-pages/tlrc) - A `tldr` client written in Rust.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
@@ -299,6 +298,7 @@ scoop install poldi/<app>
 - [taplo](https://github.com/tamasfe/taplo) - Migrated, use `main/taplo`.
 - [tcping](https://elifulkerson.com/projects/tcping.php) - Migrated, use `main/tcping`.
 - [termscp](https://github.com/veeso/termscp) - Migrated, use `main/termscp`.
+- [tlrc](https://github.com/tldr-pages/tlrc) - Migrated, use `main/tlrc`.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - Migrated, use `main/tf-summarize`.
 - [ttdl](https://github.com/VladimirMarkelov/ttdl) - Migrated, use `extras/ttdl`.
 - [vegeta](https://github.com/tsenart/vegeta) - Migrated, use `main/vegeta`.
