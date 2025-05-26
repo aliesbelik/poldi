@@ -146,6 +146,7 @@ scoop install poldi/<app>
 - [dyff](https://github.com/homeport/dyff) - Diff tool for YAML files, and sometimes JSON.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
+- [envfetch](https://github.com/ankddev/envfetch) - Lightweight cross-platform CLI tool for working with environment variables.
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
