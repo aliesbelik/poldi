@@ -90,6 +90,7 @@ scoop install poldi/<app>
 - [kafta](https://github.com/electric-saw/kafta) - A modern non-JVM command-line for managing Kafka clusters written in Go.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [kcli](https://github.com/cswank/kcli) - A Kafka read-only command-line browser.
+- [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
 - [kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal.
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
 - [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
