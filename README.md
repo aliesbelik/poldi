@@ -177,6 +177,7 @@ scoop install poldi/<app>
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
+- [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
