@@ -191,6 +191,7 @@ scoop install poldi/<app>
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
+- [termframe](https://github.com/pamburus/termframe) - Terminal output SVG screenshot tool.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
