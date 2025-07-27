@@ -154,6 +154,7 @@ scoop install poldi/<app>
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [fm](https://github.com/mistakenelf/fm) - A terminal based file manager.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+- [ftdv](https://github.com/wtnqk/ftdv) - File Tree Diff Viewer, a terminal-based diff viewer.
 - [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
