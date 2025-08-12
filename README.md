@@ -165,6 +165,7 @@ scoop install poldi/<app>
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [gomi](https://github.com/babarot/gomi) - A simple CLI trash tool, written in Go.
 - [gotz](https://github.com/merschformann/gotz) - A simple CLI timezone info tool.
+- [gvm](https://github.com/andrewkroh/gvm) - Go Version Manager, written in Go.
 - [hf](https://github.com/sorairolake/hf) - Cross-platform hidden file library and utility.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
