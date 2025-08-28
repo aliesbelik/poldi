@@ -146,6 +146,7 @@ scoop install poldi/<app>
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
 - [dnglab](https://github.com/dnglab/dnglab) - Camera RAW to DNG file format converter.
+- [doxx](https://github.com/bgreenwell/doxx) - A fast, terminal-native document viewer for MS Word (.docx) files.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [dyff](https://github.com/homeport/dyff) - Diff tool for YAML files, and sometimes JSON.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
