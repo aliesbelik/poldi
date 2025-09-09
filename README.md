@@ -167,6 +167,7 @@ scoop install poldi/<app>
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
 - [gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go.
 - [gomi](https://github.com/babarot/gomi) - A simple CLI trash tool, written in Go.
+- [got](https://github.com/melbahja/got) - Simple and fast concurrent downloade, written in Go.
 - [gotz](https://github.com/merschformann/gotz) - A simple CLI timezone info tool.
 - [gvm](https://github.com/andrewkroh/gvm) - Go Version Manager, written in Go.
 - [hf](https://github.com/sorairolake/hf) - Cross-platform hidden file library and utility.
