@@ -236,6 +236,7 @@ scoop install poldi/<app>
 - [tcping-go](https://github.com/cloverstd/tcping) - Ping over a TCP connection, like `tcping`, written in Go.
 - [tlsx](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection.
 - [whris](https://github.com/harakeishi/whris) - A CLI tool to display management information for IPs associated with the domain.
+- [zns](https://github.com/znscli/zns) - A CLI tool for querying DNS records with readable, colored output.
 
 </details>
 
