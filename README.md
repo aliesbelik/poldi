@@ -184,6 +184,7 @@ scoop install poldi/<app>
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
+- [lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by `lazydocker` and `k9s`.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
