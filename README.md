@@ -82,6 +82,7 @@ scoop install poldi/<app>
   <summary><strong>DevOps</strong></summary>
 
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
+- [dcv](https://github.com/tokuhirom/dcv) - TUI viewer for docker-compose.
 - [dry](https://github.com/moncho/dry) - A terminal application to manage and monitor Docker containers.
 - [gocker](https://github.com/pommee/gocker) - A TUI tool for Docker management.
 - [gonzo](https://github.com/control-theory/gonzo) - A Go based TUI log analysis tool inspired by `k9s`.
