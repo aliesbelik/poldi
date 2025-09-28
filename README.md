@@ -253,6 +253,7 @@ scoop install poldi/<app>
 - [cleed](https://github.com/radulucut/cleed) - A simple feed reader for the command line.
 - [dijo](https://github.com/oppiliappan/dijo) - Scriptable, curses-based, digital habit tracker.
 - [hmm](https://github.com/samwho/hmm) - A small command-line note taking app written in Rust.
+- [klog](https://github.com/jotaen/klog) - A plain-text file format and a command line tool for time tracking.
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format.
 - [todoist-cli](https://github.com/sachaos/todoist) - Todoist CLI client, written in Golang.
