@@ -150,6 +150,7 @@ scoop install poldi/<app>
 - [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
+- [dlm](https://github.com/agourlay/dlm) - Minimal HTTP download manager.
 - [dnglab](https://github.com/dnglab/dnglab) - Camera RAW to DNG file format converter.
 - [doxx](https://github.com/bgreenwell/doxx) - A fast, terminal-native document viewer for MS Word (.docx) files.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
