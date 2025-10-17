@@ -81,6 +81,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>DevOps</strong></summary>
 
+- [az-tui](https://github.com/IAL32/az-tui) - A terminal UI for managing Azure Container Apps.
 - [ctlptl](https://github.com/tilt-dev/ctlptl) - A CLI for declaratively setting up local Kubernetes clusters.
 - [dcv](https://github.com/tokuhirom/dcv) - TUI viewer for docker-compose.
 - [dry](https://github.com/moncho/dry) - A terminal application to manage and monitor Docker containers.
