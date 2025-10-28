@@ -278,6 +278,7 @@ scoop install poldi/<app>
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [hitt](https://github.com/hougesen/hitt) - File-based HTTP testing tool focused on speed and simplicity.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
+- [mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [nap](https://github.com/davesheldon/nap) - A command-line tool that utilizes YAML files to test APIs.
