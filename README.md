@@ -236,6 +236,7 @@ scoop install poldi/<app>
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
+- [multicurl](https://github.com/fortio/multicurl) - Fetch an URL from all the IPs of a given host.
 - [nping](https://github.com/hanshuaikang/nping) - A ping tool with real-time data and visualizations, written in Rust.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
 - [pingy](https://github.com/trinhminhtriet/pingy) - A fast, concurrent Rust-based ping tool with real-time updates & visual charts.
