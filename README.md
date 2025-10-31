@@ -186,6 +186,7 @@ scoop install poldi/<app>
 - [jlv](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
+- [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [keep-sorted](https://github.com/google/keep-sorted) - A language-agnostic formatter that sorts lines between two markers in a larger file.
