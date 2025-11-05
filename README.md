@@ -194,6 +194,7 @@ scoop install poldi/<app>
 - [lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by `lazydocker` and `k9s`.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
+- [mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
