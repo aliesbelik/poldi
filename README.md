@@ -265,6 +265,7 @@ scoop install poldi/<app>
 - [mani](https://github.com/alajmo/mani) - CLI tool to help you manage repositories.
 - [openpomodoro-cli](https://github.com/open-pomodoro/openpomodoro-cli) - A command-line Pomodoro tracker which uses the Open Pomodoro Format.
 - [todoist-cli](https://github.com/sachaos/todoist) - Todoist CLI client, written in Golang.
+- [tt](https://github.com/caarlos0/tasktimer) - A dead simple TUI task timer.
 - [tuifeed](https://github.com/veeso/tuifeed) - A terminal feed reader with a fancy UI.
 
 </details>
