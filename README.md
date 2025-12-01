@@ -198,6 +198,7 @@ scoop install poldi/<app>
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
+- [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
