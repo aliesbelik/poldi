@@ -216,6 +216,7 @@ scoop install poldi/<app>
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
 - [termframe](https://github.com/pamburus/termframe) - Terminal output SVG screenshot tool.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool to execute SQL queries on CSV, LTSV, JSON and TBLN, with output to various formats.
+- [treemd](https://github.com/epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
