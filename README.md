@@ -220,6 +220,7 @@ scoop install poldi/<app>
 - [treemd](https://github.com/epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
+- [xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
