@@ -158,7 +158,6 @@ scoop install poldi/<app>
 - [dnglab](https://github.com/dnglab/dnglab) - Camera RAW to DNG file format converter.
 - [doxx](https://github.com/bgreenwell/doxx) - A fast, terminal-native document viewer for MS Word (.docx) files.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [dyff](https://github.com/homeport/dyff) - Diff tool for YAML files, and sometimes JSON.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
 - [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
 - [envfetch](https://github.com/ankddev/envfetch) - Lightweight cross-platform CLI tool for working with environment variables.
@@ -315,6 +314,7 @@ scoop install poldi/<app>
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Migrated, use `main/dnslookup`.
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Migrated, use `main/dnsproxy`.
 - [doggo](https://github.com/mr-karan/doggo) - Migrated, use `main/doggo`.
+- [dyff](https://github.com/homeport/dyff) - Migrated, use `main/dyff`.
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
 - [flamelens](https://github.com/YS-L/flamelens) - Migrated, use `extras/flamelens`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
