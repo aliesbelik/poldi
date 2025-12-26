@@ -235,6 +235,7 @@ scoop install poldi/<app>
 - [dnsping](https://github.com/fortio/dnsping) - DNS ping utility to check packet loss and latency issues with DNS servers.
 - [dnstrace](https://github.com/rs/dnstrace) - A DNS resolution tracing tool, performs a DNS resolution by tracing the delegation path from the root name servers, and by following the CNAME chain.
 - [dnsx](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit allow to run multiple DNS queries using `retryabledns` library.
+- [doh](https://github.com/mxssl/doh) - Simple DNS-over-HTTPS CLI client for Cloudflare.
 - [dstp](https://github.com/ycd/dstp) - Run common networking tests against any site.
 - [dt](https://github.com/42wim/dt) - DNS tool to display information about your domain.
 - [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal.
