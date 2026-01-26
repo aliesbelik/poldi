@@ -127,8 +127,9 @@ scoop install poldi/<app>
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching GitHub repository.
 - [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
-- [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your git repositories.
-- [gitql](https://github.com/filhodanuvem/gitql) - A git query language.
+- [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
+- [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
+- [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 
 </details>
 
@@ -152,7 +153,7 @@ scoop install poldi/<app>
 - [convco](https://github.com/convco/convco) - A Conventional Commits CLI tool.
 - [csvi](https://github.com/hymkor/csvi) - Terminal CSV editor.
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
-- [diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on `delta` but with a file tree, à la GitHub.
+- [diffnav](https://github.com/dlvhdr/diffnav) - A Git diff pager based on `delta` but with a file tree, à la GitHub.
 - [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
