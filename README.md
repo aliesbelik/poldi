@@ -199,6 +199,7 @@ scoop install poldi/<app>
 - [keep-sorted](https://github.com/google/keep-sorted) - A language-agnostic formatter that sorts lines between two markers in a larger file.
 - [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
 - [lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by `lazydocker` and `k9s`.
+- [lnko](https://github.com/luanvil/lnko) - Simple `stow`-like dotfile linker.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer.
