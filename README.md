@@ -111,6 +111,7 @@ scoop install poldi/<app>
 - [tfmv](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources, data sources, and modules and generate moved blocks.
 - [tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs.
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+- [tredis](https://github.com/huseyinbabal/tredis) - A terminal-based Redis data viewer and manager.
 - [updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings.
 - [werf](https://github.com/werf/werf) - A CNCF Sandbox CLI tool to implement full-cycle CI/CD to Kubernetes easily.
 - [yc](https://cloud.yandex.ru/docs/cli/) - CLI for Yandex Cloud.
