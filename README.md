@@ -63,7 +63,6 @@ scoop install poldi/<app>
 - [atlas](https://github.com/ariga/atlas) - A language-agnostic tool for managing and migrating database schemas as code.
 - [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
-- [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for PostgreSQL.
 - [sql-studio](https://github.com/frectonz/sql-studio) - A single binary, single command SQL database explorer.
 - [vi-mongo](https://github.com/kopecmaciej/vi-mongo) - MongoDB TUI manager designed to simplify data visualization and quick manipulation.
 
@@ -337,6 +336,7 @@ scoop install poldi/<app>
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
+- [rainfrog](https://github.com/achristmascarl/rainfrog) - Migrated, use `main/rainfrog`.
 - [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
