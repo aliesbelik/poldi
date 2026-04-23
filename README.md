@@ -252,7 +252,6 @@ scoop install poldi/<app>
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [multicurl](https://github.com/fortio/multicurl) - Fetch an URL from all the IPs of a given host.
-- [nbping](https://github.com/hanshuaikang/nping) - A ping tool with real-time data and visualizations, written in Rust.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
 - [pingy](https://github.com/trinhminhtriet/pingy) - A fast, concurrent Rust-based ping tool with real-time updates & visual charts.
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife proxy tool for HTTP/HTTPS traffic capture, manipulation and replay written in Go.
@@ -334,6 +333,7 @@ scoop install poldi/<app>
 - [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
+- [nbping](https://github.com/hanshuaikang/nping) - Migrated, use `main/nbping`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
