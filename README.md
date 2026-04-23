@@ -197,7 +197,6 @@ scoop install poldi/<app>
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [keep-sorted](https://github.com/google/keep-sorted) - A language-agnostic formatter that sorts lines between two markers in a larger file.
 - [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
-- [lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by `lazydocker` and `k9s`.
 - [lnko](https://github.com/luanvil/lnko) - Simple `stow`-like dotfile linker.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -332,6 +331,7 @@ scoop install poldi/<app>
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
+- [lazyssh](https://github.com/Adembc/lazyssh) - Migrated, use `main/lazyssh`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
 - [nbping](https://github.com/hanshuaikang/nping) - Migrated, use `main/nbping`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
