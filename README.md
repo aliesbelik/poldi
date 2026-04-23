@@ -28,7 +28,6 @@ scoop install poldi/<app>
 
 - [bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in Go.
 - [byedpi](https://github.com/hufrea/byedpi) - Bypass DPI.
-- [karing](https://github.com/KaringX/karing) - A simple & powerful proxy utility, with support of routing rules for clash/sing-box.
 - [spoofdpi](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go.
 
 </details>
@@ -332,6 +331,7 @@ scoop install poldi/<app>
 - [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
+- [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
