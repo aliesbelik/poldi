@@ -189,7 +189,6 @@ scoop install poldi/<app>
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor, a command line utility that provides a fast and simple way to retrieve or update values from JSON documents.
 - [jlv](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
-- [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using `jq`.
 - [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
 - [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
 - [jvms](https://github.com/ystyle/jvms) - JDK Version Manager (JVMS) for Windows.
@@ -327,6 +326,7 @@ scoop install poldi/<app>
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
+- [jnv](https://github.com/ynqa/jnv) - Migrated, use `main/jnv`.
 - [jo](https://github.com/jpmens/jo) - Migrated, use `main/jo`.
 - [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
