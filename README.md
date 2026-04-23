@@ -302,7 +302,6 @@ scoop install poldi/<app>
 - [nap](https://github.com/davesheldon/nap) - A command-line tool that utilizes YAML files to test APIs.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
-- [resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for .http/.rest files with HTTP, GraphQL and gRPC support, workflows, profiling and response diffs.
 - [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI.
 - [slumber](https://github.com/LucasPickering/slumber) - A terminal-based HTTP/REST client.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
@@ -338,6 +337,7 @@ scoop install poldi/<app>
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
+- [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
 - [sshs](https://github.com/quantumsheep/sshs) - Migrated, use `extras/sshs`.
