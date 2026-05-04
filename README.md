@@ -211,6 +211,7 @@ scoop install poldi/<app>
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
 - [see](https://github.com/guilhermeprokisch/see) - A `cat` for the terminal with advanced code viewing, Markdown rendering, syntax highlighting, images view and more.
+- [serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool.
 - [sq](https://github.com/neilotoole/sq) - A command-line tool that provides `jq`-style access to structured data sources: SQL databases, or document formats like CSV or Excel.
 - [sqly](https://github.com/nao1215/sqly) - A powerful command-line tool to execute SQL against CSV, TSV, LTSV, JSON, and Microsoft Excel files.
