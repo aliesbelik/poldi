@@ -151,6 +151,7 @@ scoop install poldi/<app>
 - [convco](https://github.com/convco/convco) - A Conventional Commits CLI tool.
 - [csvi](https://github.com/hymkor/csvi) - Terminal CSV editor.
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
+- [cq](https://github.com/baldimario/cq) - High-performance SQL query engine for CSV files.
 - [dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment with live markdown rendering.
 - [diffnav](https://github.com/dlvhdr/diffnav) - A Git diff pager based on `delta` but with a file tree, à la GitHub.
 - [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
