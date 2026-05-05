@@ -49,7 +49,6 @@ scoop install poldi/<app>
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
 - [ntttcp](https://github.com/microsoft/ntttcp) - A Windows network throughput benchmarking tool.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
-- [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool written in Go, with real-time web UI and terminal displaying.
 - [reqstress](https://github.com/utkusen/reqstress) - A benchmarking & stressing tool that can send raw HTTP requests, written in Go.
 - [rewrk](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking tool written in Rust, supporting HTTP/1 and HTTP/2 benchmarks.
 - [rip](https://github.com/bjarneo/rip) - An HTTP load testing and UDP flood attack tool written in Go.
@@ -340,6 +339,7 @@ scoop install poldi/<app>
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
 - [oha](https://github.com/hatoo/oha) - Migrated, use `main/oha`.
 - [ov](https://github.com/noborus/ov) - Migrated, use `main/ov`.
+- [plow](https://github.com/six-ddc/plow) - Migrated, use `main/plow`.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - Migrated, use `main/rainfrog`.
 - [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
