@@ -72,7 +72,6 @@ scoop install poldi/<app>
 
 - [cpa](https://github.com/ysawa0/create-python-app) - A CLI tool for ultra fast setup of Rust & Python projects.
 - [ktor-cli](https://github.com/ktorio/ktor-cli) - Command-line tool for creating Ktor projects.
-- [sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL.
 - [vscli](https://github.com/michidk/vscli) - A CLI/TUI which makes it easy to launch VS Code projects, with a focus on dev containers.
 
 </details>
@@ -345,6 +344,7 @@ scoop install poldi/<app>
 - [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
+- [sqlc](https://github.com/sqlc-dev/sqlc) - Migrated, use `main/sqlc`.
 - [sshs](https://github.com/quantumsheep/sshs) - Migrated, use `extras/sshs`.
 - [superfile](https://github.com/yorukot/superfile) - Migrated, use `main/superfile`.
 - [tailspin](https://github.com/bensadeh/tailspin) - Migrated, use `main/tailspin`.
