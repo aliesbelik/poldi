@@ -172,6 +172,7 @@ scoop install poldi/<app>
 - [ftdv](https://github.com/wtnqk/ftdv) - File Tree Diff Viewer, a terminal-based diff viewer.
 - [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
+- [gchecksum](https://github.com/Glavo/gchecksum) - Generate hash checksum for directory and verify file integrity.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
 - [godap](https://github.com/Macmod/godap) - A complete TUI for LDAP.
 - [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
