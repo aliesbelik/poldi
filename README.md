@@ -199,7 +199,6 @@ scoop install poldi/<app>
 - [lnko](https://github.com/luanvil/lnko) - Simple `stow`-like dotfile linker.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
-- [mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
@@ -335,6 +334,7 @@ scoop install poldi/<app>
 - [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [lazyssh](https://github.com/Adembc/lazyssh) - Migrated, use `main/lazyssh`.
+- [mcat](https://github.com/Skardyy/mcat) - Migrated, use `main/mcat`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
 - [nbping](https://github.com/hanshuaikang/nping) - Migrated, use `main/nbping`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
