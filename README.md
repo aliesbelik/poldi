@@ -99,6 +99,7 @@ scoop install poldi/<app>
 - [kubectl-explore](https://github.com/keisku/kubectl-explore) - A better `kubectl explain` with the fuzzy finder.
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
 - [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
+- [kubetui](https://github.com/sarub0b0/kubetui) - A TUI tool for real-time monitoring and exploration of Kubernetes resources.
 - [kubewall](https://github.com/kubewall/kubewall) - A single binary Kubernetes dashboard to manage multiple clusters.
 - [netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads.
 - [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control Docker containers.
