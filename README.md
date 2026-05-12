@@ -199,6 +199,7 @@ scoop install poldi/<app>
 - [keep-alive](https://github.com/stigoleg/keep-alive) - A lightweight, cross-platform utility to prevent system from going to sleep.
 - [keep-sorted](https://github.com/google/keep-sorted) - A language-agnostic formatter that sorts lines between two markers in a larger file.
 - [kure](https://github.com/GGP1/kure) - Cross-platform CLI password manager with sessions.
+- [leaf](https://github.com/RivoLink/leaf) - A terminal-based Markdown previewer with a GUI-like experience.
 - [lnko](https://github.com/luanvil/lnko) - Simple `stow`-like dotfile linker.
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
