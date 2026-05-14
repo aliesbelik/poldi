@@ -47,6 +47,7 @@ scoop install poldi/<app>
 - [goku-bench](https://github.com/jcaromiq/goku) - Another HTTP load testing application written in Rust, inspired by `drill` and `vegeta`.
 - [gopayloader](https://github.com/domsolutions/gopayloader) - HTTP/S benchmark/load testing cross-platform tool with optional JWT generation, inspired by `bombardier`.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (`ab`) replacement.
+- [hloader](https://github.com/rsevilla87/hloader) - An easy to use HTTP load testing tool.
 - [ntttcp](https://github.com/microsoft/ntttcp) - A Windows network throughput benchmarking tool.
 - [pewpew](https://github.com/bengadbois/pewpew) - A flexible HTTP CLI stress testing tool for websites and web services, written in Go.
 - [reqstress](https://github.com/utkusen/reqstress) - A benchmarking & stressing tool that can send raw HTTP requests, written in Go.
