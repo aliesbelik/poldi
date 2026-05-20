@@ -276,6 +276,7 @@ scoop install poldi/<app>
 - [ck-cli](https://github.com/clippingkk/cli) - A CLI tool to parse Amazon's My Clippings.txt to JSON format.
 - [cleed](https://github.com/radulucut/cleed) - A simple feed reader for the command line.
 - [dijo](https://github.com/oppiliappan/dijo) - Scriptable, curses-based, digital habit tracker.
+- [feedo](https://github.com/ricardodantas/feedo) - A stunning terminal RSS reader built with Rust and ratatui.
 - [hmm](https://github.com/samwho/hmm) - A small command-line note taking app written in Rust.
 - [klog](https://github.com/jotaen/klog) - A plain-text file format and a command line tool for time tracking.
 - [lazyjira](https://github.com/textfuel/lazyjira) - Terminal UI for Jira.
