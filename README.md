@@ -120,7 +120,7 @@ scoop install poldi/<app>
 </details>
 
 <details>
-  <summary><strong>Git</strong></summary>
+  <summary><strong>Git / GitHub</strong></summary>
 
 - [brows](https://github.com/rubysolo/brows) - A CLI GitHub release browser.
 - [ghdl](https://github.com/yaonyan/ghdl) - A convenient way to download GitHub release binaries from the command line.
@@ -130,6 +130,7 @@ scoop install poldi/<app>
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
+- [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
 </details>
 
