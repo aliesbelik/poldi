@@ -189,7 +189,6 @@ scoop install poldi/<app>
 - [hevi](https://codeberg.org/arnauc/hevi) - Hex viewer.
 - [hf](https://github.com/sorairolake/hf) - Cross-platform hidden file library and utility.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
-- [hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
@@ -333,6 +332,7 @@ scoop install poldi/<app>
 - [ghz](https://github.com/bojand/ghz) - Migrated, use `main/ghz`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
+- [hl](https://github.com/pamburus/hl) - Migrated, use `main/hl`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
 - [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
