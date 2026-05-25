@@ -283,6 +283,7 @@ scoop install poldi/<app>
 - [todoist-cli](https://github.com/sachaos/todoist) - Todoist CLI client, written in Golang.
 - [tt](https://github.com/caarlos0/tasktimer) - A dead simple TUI task timer.
 - [tuifeed](https://github.com/veeso/tuifeed) - A terminal feed reader with a fancy UI.
+- [yatto](https://github.com/handlebargh/yatto) - Interactive version-controlled todo-list for the command-line.
 
 </details>
 
