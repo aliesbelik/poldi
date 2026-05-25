@@ -156,7 +156,6 @@ scoop install poldi/<app>
 - [csvq](https://github.com/mithrandie/csvq) - A CLI tool to operate CSV with SQL-like query.
 - [cq](https://github.com/baldimario/cq) - High-performance SQL query engine for CSV files.
 - [dawn](https://github.com/andrewmd5/dawn) - A distraction-free writing environment with live markdown rendering.
-- [diffnav](https://github.com/dlvhdr/diffnav) - A Git diff pager based on `delta` but with a file tree, à la GitHub.
 - [dirx](https://github.com/chrisant996/dirx) - The `dir` command, extended.
 - [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to `du -sh`.
 - [diskusage](https://github.com/chenquan/diskusage) - A CLI tool for showing disk usage.
@@ -322,6 +321,7 @@ scoop install poldi/<app>
 - [bombardier](https://github.com/codesenberg/bombardier) - Migrated, use `main/bombardier`.
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
 - [ddosify](https://github.com/ddosify/ddosify) - Migrated, use `main/ddosify`.
+- [diffnav](https://github.com/dlvhdr/diffnav) - Migrated, use `main/diffnav`.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Migrated, use `main/dnslookup`.
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Migrated, use `main/dnsproxy`.
 - [doggo](https://github.com/mr-karan/doggo) - Migrated, use `main/doggo`.
