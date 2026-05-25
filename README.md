@@ -216,7 +216,6 @@ scoop install poldi/<app>
 - [see](https://github.com/guilhermeprokisch/see) - A `cat` for the terminal with advanced code viewing, Markdown rendering, syntax highlighting, images view and more.
 - [serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool.
-- [sq](https://github.com/neilotoole/sq) - A command-line tool that provides `jq`-style access to structured data sources: SQL databases, or document formats like CSV or Excel.
 - [sqly](https://github.com/nao1215/sqly) - A powerful command-line tool to execute SQL against CSV, TSV, LTSV, JSON, and Microsoft Excel files.
 - [srgn](https://github.com/alexpovel/srgn) - A `grep`-like tool which understands source code syntax and allows for manipulation in addition to search.
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
@@ -352,6 +351,7 @@ scoop install poldi/<app>
 - [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
+- [sq](https://github.com/neilotoole/sq) - Migrated, use `main/sq`.
 - [sqlc](https://github.com/sqlc-dev/sqlc) - Migrated, use `main/sqlc`.
 - [sshs](https://github.com/quantumsheep/sshs) - Migrated, use `extras/sshs`.
 - [superfile](https://github.com/yorukot/superfile) - Migrated, use `main/superfile`.
