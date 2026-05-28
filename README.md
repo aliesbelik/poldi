@@ -236,6 +236,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Network</strong></summary>
 
+- [cdncheck](https://github.com/projectdiscovery/cdncheck) - An utility to detect various technology for a given IP address.
 - [cdntest](https://github.com/Redundancy/cdntest) - A CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools.
 - [cfspeedtest](https://github.com/code-inflation/cfspeedtest) - Unofficial CLI for speed.cloudflare.com.
 - [cidr](https://github.com/bschaatsbergen/cidr) - A CLI tool to perform various actions on CIDR ranges.
