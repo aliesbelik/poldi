@@ -126,6 +126,7 @@ scoop install poldi/<app>
 - [ghdl](https://github.com/yaonyan/ghdl) - A convenient way to download GitHub release binaries from the command line.
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching GitHub repository.
 - [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
+- [giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities.
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
