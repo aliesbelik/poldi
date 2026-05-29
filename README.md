@@ -171,7 +171,6 @@ scoop install poldi/<app>
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for common log formats.
 - [fm](https://github.com/mistakenelf/fm) - A terminal based file manager.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
-- [fresh](https://github.com/sinelaw/fresh) - A terminal-based text editor.
 - [ftdv](https://github.com/wtnqk/ftdv) - File Tree Diff Viewer, a terminal-based diff viewer.
 - [g](https://github.com/Equationzhao/g) - Powerful and cross-platform `ls` built for modern terminal.
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
@@ -331,6 +330,7 @@ scoop install poldi/<app>
 - [eget](https://github.com/zyedidia/eget) - Migrated, use `extras/eget`.
 - [flamelens](https://github.com/YS-L/flamelens) - Migrated, use `extras/flamelens`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
+- [fresh](https://github.com/sinelaw/fresh) - Migrated, use `main/fresh`.
 - [ghz](https://github.com/bojand/ghz) - Migrated, use `main/ghz`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
