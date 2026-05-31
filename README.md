@@ -65,6 +65,7 @@ scoop install poldi/<app>
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats.
 - [sql-studio](https://github.com/frectonz/sql-studio) - A single binary, single command SQL database explorer.
+- [sqluv](https://github.com/nao1215/sqluv) - Simple terminal UI for RDBMS & CSV/TSV/LTSV from local storage, HTTPS, and Amazon S3.
 - [vi-mongo](https://github.com/kopecmaciej/vi-mongo) - MongoDB TUI manager designed to simplify data visualization and quick manipulation.
 
 </details>
