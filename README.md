@@ -109,6 +109,7 @@ scoop install poldi/<app>
 - [sou](https://github.com/knqyf263/sou) - A TUI tool for exploring files in container image layers.
 - [tanka](https://github.com/grafana/tanka) - A robust configuration utility for Kubernetes cluster, powered by the Jsonnet language.
 - [taws](https://github.com/huseyinbabal/taws) - A terminal-based AWS resource viewer and manager.
+- [termora](https://github.com/TermoraDev/termora) - A cross-platform terminal emulator and SSH client.
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tfmv](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources, data sources, and modules and generate moved blocks.
 - [tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs.
