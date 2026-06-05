@@ -311,7 +311,6 @@ scoop install poldi/<app>
 - [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI.
 - [slumber](https://github.com/LucasPickering/slumber) - A terminal-based HTTP/REST client.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
-- [websocat](https://github.com/vi/websocat) - A CLI client for WebSockets, like `netcat` (or `curl`) for ws:// with advanced `socat`-like functions.
 - [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
 
 </details>
@@ -371,6 +370,7 @@ scoop install poldi/<app>
 - [vegeta](https://github.com/tsenart/vegeta) - Migrated, use `main/vegeta`.
 - [wait4x](https://github.com/wait4x/wait4x) - Migrated, use `extras/wait4x`.
 - [walk](https://github.com/antonmedv/walk) -  Migrated, use `main/walk`.
+- [websocat](https://github.com/vi/websocat) - Migrated, use `main/websocat`.
 - [yamlfmt](https://github.com/google/yamlfmt) - Migrated, use `main/yamlfmt`.
 
 </details>
