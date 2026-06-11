@@ -189,6 +189,7 @@ scoop install poldi/<app>
 - [gotz](https://github.com/merschformann/gotz) - A simple CLI timezone info tool.
 - [gvm](https://github.com/andrewkroh/gvm) - Go Version Manager, written in Go.
 - [hevi](https://codeberg.org/arnauc/hevi) - Hex viewer.
+- [hextazy](https://github.com/0xfalafel/hextazy) - A coloful hexadecimal editor.
 - [hf](https://github.com/sorairolake/hf) - Cross-platform hidden file library and utility.
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
