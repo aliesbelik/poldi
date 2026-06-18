@@ -305,6 +305,7 @@ scoop install poldi/<app>
 - [hitt](https://github.com/hougesen/hitt) - File-based HTTP testing tool focused on speed and simplicity.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [hulak](https://github.com/xaaha/hulak) - Lightweight file-based API client for terminal nerds.
+- [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A terminal UI for decoding/encoding JSON Web Tokens.
 - [mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [memtui](https://github.com/nnnkkk7/memtui) - A modern, intuitive TUI client for Memcached, built with Go.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
