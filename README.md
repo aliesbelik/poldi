@@ -257,6 +257,7 @@ scoop install poldi/<app>
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
 - [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit allows to run multiple probers using `retryablehttp` library.
+- [mapcidr](https://github.com/projectdiscovery/mapcidr) - An utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [mturoute](https://elifulkerson.com/projects/mturoute.php) - Eli Fulkerson's CLI tool analogous to `ping` and `traceroute`, which finds the maximum MTU between you and another host by passing ICMP requests with differing payload size.
 - [multicurl](https://github.com/fortio/multicurl) - Fetch an URL from all the IPs of a given host.
 - [pingu](https://github.com/sheepla/pingu) - Ping command implementation but with Pingu ASCII art, written in Go.
