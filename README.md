@@ -134,6 +134,7 @@ scoop install poldi/<app>
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
+- [hunk](https://github.com/modem-dev/hunk) - A review-first terminal diff viewer for agent-authored changesets.
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
