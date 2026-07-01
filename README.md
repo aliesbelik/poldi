@@ -104,6 +104,7 @@ scoop install poldi/<app>
 - [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
 - [kubetui](https://github.com/sarub0b0/kubetui) - A TUI tool for real-time monitoring and exploration of Kubernetes resources.
 - [kubewall](https://github.com/kubewall/kubewall) - A single binary Kubernetes dashboard to manage multiple clusters.
+- [layerx](https://github.com/deveshctl/layerx) - Terminal-based Docker image layer inspector.
 - [netfetch](https://github.com/deggja/netfetch) - Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads.
 - [oxker](https://github.com/mrjackwills/oxker) - A simple TUI to view & control Docker containers.
 - [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
