@@ -128,7 +128,6 @@ scoop install poldi/<app>
 
 - [brows](https://github.com/rubysolo/brows) - A CLI GitHub release browser.
 - [ghdl](https://github.com/yaonyan/ghdl) - A convenient way to download GitHub release binaries from the command line.
-- [ghgrab](https://github.com/abhixdd/ghgrab) - A simple terminal tool to browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo.
 - [ghs](https://github.com/sonatard/ghs) - A CLI utility for searching GitHub repository.
 - [gickup](https://github.com/cooperspencer/gickup) - A tool to clone/mirror cloud Git repositories.
 - [giff](https://github.com/bahdotsh/giff) - A terminal-based Git diff viewer with interactive rebase capabilities.
@@ -341,6 +340,7 @@ scoop install poldi/<app>
 - [flamelens](https://github.com/YS-L/flamelens) - Migrated, use `extras/flamelens`.
 - [focus](https://github.com/ayoisaiah/focus) -  Migrated, use `extras/focus`.
 - [fresh](https://github.com/sinelaw/fresh) - Migrated, use `main/fresh`.
+- [ghgrab](https://github.com/abhixdd/ghgrab) - Migrated, use `main/ghgrab`.
 - [ghz](https://github.com/bojand/ghz) - Migrated, use `main/ghz`.
 - [gotop](https://github.com/xxxserxxx/gotop) - Migrated, use `main/gotop`.
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
