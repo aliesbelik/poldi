@@ -234,6 +234,7 @@ scoop install poldi/<app>
 - [xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
+- [yh](https://github.com/andreazorzetto/yh) - A dummy syntax highlighter to bring colours to YAML output, `jq` style.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
 
 </details>
