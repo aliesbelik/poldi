@@ -150,6 +150,13 @@ scoop install poldi/<app>
 </details>
 
 <details>
+  <summary><strong>Media</strong></summary>
+
+- [climp](https://github.com/olivier-w/climp) - Minimal CLI media player for local files, URLs, and playlists.
+
+</details>
+
+<details>
   <summary><strong>Misc</strong></summary>
 
 - [anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates.
