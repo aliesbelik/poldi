@@ -190,6 +190,7 @@ scoop install poldi/<app>
 - [gat](https://github.com/koki-develop/gat) - A `cat` alternative written in Go.
 - [gchecksum](https://github.com/Glavo/gchecksum) - Generate hash checksum for directory and verify file integrity.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support.
+- [gocloc](https://github.com/hhatto/gocloc) - A little fast cloc (Count Lines Of Code), written in Go.
 - [godap](https://github.com/Macmod/godap) - A complete TUI for LDAP.
 - [godu](https://github.com/viktomas/godu) - Simple CLI utility helping to discover large files/folders.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of `jq`.
