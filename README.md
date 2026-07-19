@@ -135,7 +135,6 @@ scoop install poldi/<app>
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
-- [hunk](https://github.com/modem-dev/hunk) - A review-first terminal diff viewer for agent-authored changesets.
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
@@ -358,6 +357,7 @@ scoop install poldi/<app>
 - [gut](https://github.com/julien040/gut) - Migrated, use `main/gut`.
 - [hl](https://github.com/pamburus/hl) - Migrated, use `main/hl`.
 - [hopp-cli](https://github.com/hoppscotch/hopp-cli) - Migrated, use `main/hopp-cli`.
+- [hunk](https://github.com/modem-dev/hunk) - Migrated, use `main/hunk`.
 - [jaq](https://github.com/01mf02/jaq) - Migrated, use `main/jaq`.
 - [jc](https://github.com/kellyjonbrazil/jc) - Migrated, use `main/jc`.
 - [jnv](https://github.com/ynqa/jnv) - Migrated, use `main/jnv`.
