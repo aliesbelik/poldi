@@ -136,6 +136,7 @@ scoop install poldi/<app>
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
+- [octoscan](https://github.com/synacktiv/octoscan) - A static vulnerability scanner for GitHub action workflows.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
 </details>
