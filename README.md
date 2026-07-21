@@ -325,6 +325,7 @@ scoop install poldi/<app>
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go.
 - [nap](https://github.com/davesheldon/nap) - A command-line tool that utilizes YAML files to test APIs.
+- [payk](https://github.com/yusupkhemraev/payk) - Keyboard-first TUI HTTP client.
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI.
