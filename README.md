@@ -247,6 +247,7 @@ scoop install poldi/<app>
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yh](https://github.com/andreazorzetto/yh) - A dummy syntax highlighter to bring colours to YAML output, `jq` style.
 - [yj](https://github.com/sclevine/yj) - Convert between YAML, TOML, JSON, and HCL.
+- [zat](https://github.com/neurocyte/zat) - A syntax highlighting `cat` like utility.
 
 </details>
 
