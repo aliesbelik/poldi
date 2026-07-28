@@ -180,7 +180,7 @@ scoop install poldi/<app>
 - [doxx](https://github.com/bgreenwell/doxx) - A fast, terminal-native document viewer for MS Word (.docx) files.
 - [dsq](https://github.com/multiprocessio/dsq) - CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [ego](https://github.com/koki-develop/ego) - An `echo` alternative written in Go.
-- [ente-cli](https://github.com/ente-io/ente) - A CLI utility for exporting data from Ente Photos.
+- [ente-cli](https://github.com/ente/ente) - A CLI utility for exporting data from Ente Photos.
 - [envfetch](https://github.com/ankddev/envfetch) - Lightweight cross-platform CLI tool for working with environment variables.
 - [epoch](https://github.com/sj14/epoch) - Easily convert epoch timestamps to human-readable formats and vice versa.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - Web file browser.
