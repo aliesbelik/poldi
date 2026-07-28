@@ -268,7 +268,7 @@ scoop install poldi/<app>
 - [dstp](https://github.com/ycd/dstp) - Run common networking tests against any site.
 - [dt](https://github.com/42wim/dt) - DNS tool to display information about your domain.
 - [fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal.
-- [goreplay](https://github.com/buger/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis.
+- [goreplay](https://github.com/probelabs/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis.
 - [gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go.
 - [httpmonitor](https://github.com/ricoberger/httpmonitor) - A small TUI application to monitor a single or multiple targets.
 - [httpie-go](https://github.com/nojima/httpie-go) - `httpie`-like HTTP client written in Go.
