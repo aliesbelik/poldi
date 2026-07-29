@@ -138,6 +138,7 @@ scoop install poldi/<app>
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager (CLI + TUI).
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [octoscan](https://github.com/synacktiv/octoscan) - A static vulnerability scanner for GitHub Action workflows.
+- [pinact](https://github.com/suzuki-shunsuke/pinact) - A CLI to pin GitHub Actions and Reusable Workflows.
 - [pinata](https://github.com/caarlos0/pinata) - A GitHub Actions pinning utility.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
