@@ -232,6 +232,7 @@ scoop install poldi/<app>
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [qv](https://github.com/timvw/qv) - A simple CLI to quickly view your data.
+- [rovr](https://github.com/NSPC911/rovr) - A stylish, batteries-included terminal file manager.
 - [rq](https://github.com/dflemstr/rq) - Record Query, a tool for doing record analysis and transformation.
 - [schemacheck](https://github.com/adrielp/schemacheck) - A CLI utility to validate YAML and JSON files against a schema written in Go.
 - [see](https://github.com/guilhermeprokisch/see) - A `cat` for the terminal with advanced code viewing, Markdown rendering, syntax highlighting, images view and more.
