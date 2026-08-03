@@ -229,6 +229,7 @@ scoop install poldi/<app>
 - [parm](https://github.com/alxrw/parm) - Cross-platform package manager for GitHub Releases.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
+- [pik](https://github.com/jacek-kurlit/pik) - A command line tool that helps to find and kill process.
 - [qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding or decoding QR code.
 - [query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of `jq` in Reason.
 - [qv](https://github.com/timvw/qv) - A simple CLI to quickly view your data.
