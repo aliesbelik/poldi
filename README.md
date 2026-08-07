@@ -135,6 +135,7 @@ scoop install poldi/<app>
 - [git-extras](https://github.com/tj/git-extras) - Git utilities: repo summary, repl, changelog population, author commit percentages and more.
 - [git-sync](https://github.com/AkashRajpurohit/git-sync) - A CLI tool to backup and sync your Git repositories.
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
+- [gitwig](https://github.com/tareqmy/gitwig) - A lightweight, keyboard-driven alternative to SourceTree and `lazygit`.
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager (CLI + TUI).
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [octoscan](https://github.com/synacktiv/octoscan) - A static vulnerability scanner for GitHub Action workflows.
