@@ -376,6 +376,7 @@ scoop install poldi/<app>
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [lazyssh](https://github.com/Adembc/lazyssh) - Migrated, use `main/lazyssh`.
 - [mcat](https://github.com/Skardyy/mcat) - Migrated, use `main/mcat`.
+- [mdcat](https://github.com/BIRSAx2/mdcat) - Migrated, use `main/mdcat`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
 - [nbping](https://github.com/hanshuaikang/nping) - Migrated, use `main/nbping`.
 - [octosql](https://github.com/cube2222/octosql) - Migrated, use `main/octosql`.
