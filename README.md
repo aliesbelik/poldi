@@ -67,6 +67,7 @@ scoop install poldi/<app>
 - [sql-studio](https://github.com/frectonz/sql-studio) - A single binary, single command SQL database explorer.
 - [sqluv](https://github.com/nao1215/sqluv) - Simple terminal UI for RDBMS & CSV/TSV/LTSV from local storage, HTTPS, and Amazon S3.
 - [vi-mongo](https://github.com/kopecmaciej/vi-mongo) - MongoDB TUI manager designed to simplify data visualization and quick manipulation.
+- [vi-sql](https://github.com/kopecmaciej/vi-sql) - A keyboard-driven TUI for SQL databases.
 
 </details>
 
