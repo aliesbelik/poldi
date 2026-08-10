@@ -60,7 +60,6 @@ scoop install poldi/<app>
 <details>
   <summary><strong>Database</strong></summary>
 
-- [atlas](https://github.com/ariga/atlas) - A language-agnostic tool for managing and migrating database schemas as code.
 - [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats.
@@ -349,6 +348,7 @@ scoop install poldi/<app>
   <summary><strong>Migrated</strong></summary>
 
 - [atac](https://github.com/Julien-cpsn/ATAC) - Migrated, use `main/atac`.
+- [atlas](https://github.com/ariga/atlas) - Migrated, use `main/atlas(-community)`.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Migrated, use `main/bandwhich`.
 - [bombardier](https://github.com/codesenberg/bombardier) - Migrated, use `main/bombardier`.
 - [curlie](https://github.com/rs/curlie) - Migrated, use `main/curlie`.
