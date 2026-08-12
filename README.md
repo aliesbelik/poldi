@@ -250,6 +250,7 @@ scoop install poldi/<app>
 - [unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin.
 - [waitforit](https://github.com/maxclaus/waitforit) - Wait until an address becomes available.
 - [xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI.
+- [xled](https://github.com/excelano/xled) - A CLI for transforming CSV and DSV cells with `sed`-like substitutions, `awk`-style fields and Excel-style ranges in the terminal.
 - [xq](https://github.com/MiSawa/xq) - Pure Rust implementation of `jq`.
 - [xurls](https://github.com/mvdan/xurls) - Extract URLs from text.
 - [yh](https://github.com/andreazorzetto/yh) - A dummy syntax highlighter to bring colours to YAML output, `jq` style.
