@@ -100,6 +100,7 @@ scoop install poldi/<app>
 - [kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal.
 - [ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client.
 - [ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI.
+- [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - [kubectl-explore](https://github.com/keisku/kubectl-explore) - A better `kubectl explain` with the fuzzy finder.
 - [kubedump](https://github.com/msfidelis/kubedump) - Simple tool to dump and restore Kubernetes resources.
 - [kubestr](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options.
