@@ -16,8 +16,9 @@ scoop install poldi/<app>
 > Only apps NOT available in `scoop bucket known` buckets.
 
 <details>
-  <summary><strong>AI</strong></summary>
+  <summary><strong>AI assistants / Agentic development</strong></summary>
 
+- [lazyskills](https://github.com/alvinunreal/lazyskills) - A blazing-fast terminal UI for managing agent skills.
 - [tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
