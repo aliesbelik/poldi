@@ -139,6 +139,7 @@ scoop install poldi/<app>
 - [gitql](https://github.com/filhodanuvem/gitql) - A Git query language.
 - [gitwig](https://github.com/tareqmy/gitwig) - A lightweight, keyboard-driven alternative to SourceTree and `lazygit`.
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager (CLI + TUI).
+- [gwq](https://github.com/d-kuro/gwq) - Git worktree manager with fuzzy finder.
 - [lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal.
 - [octoscan](https://github.com/synacktiv/octoscan) - A static vulnerability scanner for GitHub Action workflows.
 - [pinact](https://github.com/suzuki-shunsuke/pinact) - A CLI to pin GitHub Actions and Reusable Workflows.
