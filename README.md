@@ -248,6 +248,7 @@ scoop install poldi/<app>
 - [sqly](https://github.com/nao1215/sqly) - A powerful command-line tool to execute SQL against CSV, TSV, LTSV, JSON, and Microsoft Excel files.
 - [srgn](https://github.com/alexpovel/srgn) - A `grep`-like tool which understands source code syntax and allows for manipulation in addition to search.
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
+- [streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
 - [termframe](https://github.com/pamburus/termframe) - Terminal output SVG screenshot tool.
