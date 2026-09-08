@@ -118,6 +118,7 @@ scoop install poldi/<app>
 - [terrap](https://github.com/sirrend/terrap-cli) - A CLI tool to scan your infrastructure and identify any required changes.
 - [tfmv](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources, data sources, and modules and generate moved blocks.
 - [tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs.
+- [tfui](https://github.com/SayYoungMan/tfui) - Interactive terminal UI for Terraform plan/apply workflows.
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 - [tredis](https://github.com/huseyinbabal/tredis) - A terminal-based Redis data viewer and manager.
 - [updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings.
