@@ -145,6 +145,7 @@ scoop install poldi/<app>
 - [octoscan](https://github.com/synacktiv/octoscan) - A static vulnerability scanner for GitHub Action workflows.
 - [pinact](https://github.com/suzuki-shunsuke/pinact) - A CLI to pin GitHub Actions and Reusable Workflows.
 - [pinata](https://github.com/caarlos0/pinata) - A GitHub Actions pinning utility.
+- [ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
 
 </details>
