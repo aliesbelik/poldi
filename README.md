@@ -94,6 +94,7 @@ scoop install poldi/<app>
 - [gonzo](https://github.com/control-theory/gonzo) - A Go based TUI log analysis tool inspired by `k9s`.
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
 - [helmsman](https://github.com/mkubaczyk/helmsman) - A Helm charts as code tool to automate the deployment/management of Helm charts from version controlled code.
+- [k10s](https://github.com/p10node/k10s) - An interactive TUI for Kubernetes cluster management.
 - [kafkactl](https://github.com/deviceinsight/kafkactl) - A CLI tool for managing Apache Kafka.
 - [kafta](https://github.com/electric-saw/kafta) - A modern non-JVM command-line for managing Kafka clusters written in Go.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
