@@ -240,6 +240,7 @@ scoop install poldi/<app>
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lsoff](https://github.com/yutat23/lsoff) - A CLI / TUI utility to display listening TCP/UDP ports.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
+- [markview](https://github.com/szdytom/markview) - A fast, native Markdown reader with publication-quality typography.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
