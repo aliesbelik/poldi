@@ -359,7 +359,6 @@ scoop install poldi/<app>
 - [pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool.
 - [plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI.
-- [slumber](https://github.com/LucasPickering/slumber) - A terminal-based HTTP/REST client.
 - [t-req](https://github.com/tensorix-labs/t-req) - A lightweight HTTP/REST client for testing APIs directly from `.http` files.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka.
 - [wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
@@ -410,6 +409,7 @@ scoop install poldi/<app>
 - [resterm](https://github.com/unkn0wn-root/resterm) - Migrated, use `main/resterm`.
 - [restfox](https://github.com/flawiddsouza/Restfox) - Migrated, use `extras/restfox`.
 - [riff](https://github.com/walles/riff) - Migrated, use `extras/riff`.
+- [slumber](https://github.com/LucasPickering/slumber) - Migrated, use `main/slumber`.
 - [sofka](https://github.com/nklmilojevic/sofka) - Migrated, use `main/sofka`.
 - [sq](https://github.com/neilotoole/sq) - Migrated, use `main/sq`.
 - [sqlc](https://github.com/sqlc-dev/sqlc) - Migrated, use `main/sqlc`.
