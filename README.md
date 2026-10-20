@@ -83,6 +83,7 @@ scoop install poldi/<app>
 <details>
   <summary><strong>DevOps</strong></summary>
 
+- [awless-ro](https://github.com/theazz/awless-ro) - Read-only AWS CLI, maintained fork of `awless`.
 - [az-tui](https://github.com/IAL32/az-tui) - A terminal UI for managing Azure Container Apps.
 - [bast](https://github.com/ellipse-software/bast) - Browse SSH hosts, sync cloud VMs, manage keys, and connect from the terminal.
 - [cloudlens](https://github.com/one2nc/cloudlens) - A `k9s` like CLI for AWS and GCP.
