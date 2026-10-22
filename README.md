@@ -181,6 +181,7 @@ scoop install poldi/<app>
 - [bed](https://github.com/itchyny/bed) - Binary editor written in Go.
 - [bine](https://github.com/hymkor/bine) - A fast terminal hex editor for large files and pipelines.
 - [binjr](https://github.com/binjr/binjr) - A standalone time series data browser.
+- [cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings.
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [codeshot](https://github.com/securekomodo/codeshot) - Terminal tool to turn code into an image.
