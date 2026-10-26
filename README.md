@@ -155,6 +155,7 @@ scoop install poldi/<app>
 - [pinata](https://github.com/caarlos0/pinata) - A GitHub Actions pinning utility.
 - [ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A command-line tool for validating and executing GitHub Actions workflows locally.
+- [xget](https://github.com/camalot/xget) - Easily install prebuilt binaries from GitHub (updated fork of `eget`).
 
 </details>
 
