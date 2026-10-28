@@ -352,6 +352,7 @@ scoop install poldi/<app>
 - [hitt](https://github.com/hougesen/hitt) - File-based HTTP testing tool focused on speed and simplicity.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
 - [hulak](https://github.com/xaaha/hulak) - Lightweight file-based API client for terminal nerds.
+- [hyperlink](https://github.com/untitaker/hyperlink) - A command-line tool to find broken links in your static site.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A terminal UI for decoding/encoding JSON Web Tokens.
 - [lazycurl](https://github.com/kbrdn1/LazyCurl) - A powerful TUI HTTP client.
 - [mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
