@@ -348,6 +348,7 @@ scoop install poldi/<app>
 - [curli](https://github.com/trinhminhtriet/curli) - A lightweight, user-friendly interface for `curl`, blending the simplicity of `HTTPie` with the robust functionality of `curl`.
 - [grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - Generic gRPC command-line client.
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of `postman`.
+- [gurl](https://github.com/geekyharsh05/gurl) - A fast, reliable HTTP client with JSON support and intuitive syntax, inspired by `curl`.
 - [hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [hitt](https://github.com/hougesen/hitt) - File-based HTTP testing tool focused on speed and simplicity.
 - [httplab](https://github.com/qustavo/httplab) - An interactive web server written in Go.
