@@ -227,6 +227,7 @@ scoop install poldi/<app>
 - [hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results.
 - [hq](https://github.com/orf/html-query) - Like `jq`, but for HTML.
 - [humanlog](https://github.com/humanlogio/humanlog) - Read logs from stdin and prints them back to stdout, but prettier.
+- [hvm](https://github.com/jmooring/hvm) - Hugo Version Manager.
 - [hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [jj](https://github.com/tidwall/jj) - JSON Stream Editor, a command line utility that provides a fast and simple way to retrieve or update values from JSON documents.
 - [jlv](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
