@@ -91,6 +91,7 @@ scoop install poldi/<app>
 - [dcv](https://github.com/tokuhirom/dcv) - TUI viewer for docker-compose.
 - [dibo](https://github.com/anton-fuji/dibo) - A Go-based CLI to generate .dockerignore files, inspired by `gibo`.
 - [dry](https://github.com/moncho/dry) - A terminal application to manage and monitor Docker containers.
+- [dssh](https://github.com/madLinux7/dssh) - A (CLI & TUI) SSH connection manager.
 - [gocker](https://github.com/pommee/gocker) - A TUI tool for Docker management.
 - [gonzo](https://github.com/control-theory/gonzo) - A Go based TUI log analysis tool inspired by `k9s`.
 - [helmify](https://github.com/arttor/helmify) - A CLI tool to create Helm charts from Kubernetes YAMLs.
