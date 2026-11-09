@@ -269,6 +269,7 @@ scoop install poldi/<app>
 - [stew](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 - [streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor.
 - [sttr](https://github.com/abhimanyu003/sttr) - Command-line application to perform various operations on strings.
+- [swpui](https://github.com/beeb/swpui) - A TUI utility to search and replace text, with a focus on ergonomics, speed and case-awareness in source code.
 - [tdu](https://github.com/josephpaul0/tdu) - Top Disk Usage, a command-line tool to estimate the disk space occupied by all files in a given path.
 - [termframe](https://github.com/pamburus/termframe) - Terminal output SVG screenshot tool.
 - [treemd](https://github.com/epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
