@@ -250,6 +250,7 @@ scoop install poldi/<app>
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
+- [omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate content-aware diffing.
 - [parm](https://github.com/alxrw/parm) - Cross-platform package manager for GitHub Releases.
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [phraze](https://github.com/sts10/phraze) - Generate random passphrases.
