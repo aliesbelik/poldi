@@ -246,7 +246,6 @@ scoop install poldi/<app>
 - [loggo](https://github.com/aurc/loggo) - A powerful terminal app for structured log streaming.
 - [lsoff](https://github.com/yutat23/lsoff) - A CLI / TUI utility to display listening TCP/UDP ports.
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
-- [markview](https://github.com/szdytom/markview) - A fast, native Markdown reader with publication-quality typography.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
@@ -408,6 +407,7 @@ scoop install poldi/<app>
 - [karing](https://github.com/KaringX/karing) - Migrated, use `extras/karing`.
 - [lazysql](https://github.com/jorgerojas26/lazysql) - Migrated, use `extras/lazysql`.
 - [lazyssh](https://github.com/Adembc/lazyssh) - Migrated, use `main/lazyssh`.
+- [markview](https://github.com/szdytom/markview) - Migrated, use `extras/markview`.
 - [mcat](https://github.com/Skardyy/mcat) - Migrated, use `main/mcat`.
 - [mdcat](https://github.com/BIRSAx2/mdcat) - Migrated, use `main/mdcat`.
 - [mqtt-cli](https://github.com/hivemq/mqtt-cli) - Migrated, use `extras/mqtt-cli`.
