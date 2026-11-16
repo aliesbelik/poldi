@@ -186,6 +186,7 @@ scoop install poldi/<app>
 - [cell](https://github.com/garritfra/cell) - A fast terminal spreadsheet editor with Vim keybindings.
 - [certinfo](https://github.com/pete911/certinfo) - Print X.509 certificate info.
 - [changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
+- [chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync.
 - [codeshot](https://github.com/securekomodo/codeshot) - Terminal tool to turn code into an image.
 - [convco](https://github.com/convco/convco) - A Conventional Commits CLI tool.
 - [csvi](https://github.com/hymkor/csvi) - Terminal CSV editor.
