@@ -64,7 +64,6 @@ scoop install poldi/<app>
 - [dblab](https://github.com/danvergara/dblab) - A fast and lightweight interactive terminal based UI application for PostgreSQL, MySQL and SQLite3, written in Go.
 - [pgweb](https://github.com/sosedoff/pgweb) - Simple web-based and cross platform PostgreSQL database explorer written in Go.
 - [rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats.
-- [sql-studio](https://github.com/frectonz/sql-studio) - A single binary, single command SQL database explorer.
 - [sqluv](https://github.com/nao1215/sqluv) - Simple terminal UI for RDBMS & CSV/TSV/LTSV from local storage, HTTPS, and Amazon S3.
 - [vi-mongo](https://github.com/kopecmaciej/vi-mongo) - MongoDB TUI manager designed to simplify data visualization and quick manipulation.
 - [vi-sql](https://github.com/kopecmaciej/vi-sql) - A keyboard-driven TUI for SQL databases.
@@ -425,6 +424,7 @@ scoop install poldi/<app>
 - [slumber](https://github.com/LucasPickering/slumber) - Migrated, use `main/slumber`.
 - [sofka](https://github.com/nklmilojevic/sofka) - Migrated, use `main/sofka`.
 - [sq](https://github.com/neilotoole/sq) - Migrated, use `main/sq`.
+- [sql-studio](https://github.com/frectonz/sql-studio) - Migrated, use `main/sql-studio`
 - [sqlc](https://github.com/sqlc-dev/sqlc) - Migrated, use `main/sqlc`.
 - [sshs](https://github.com/quantumsheep/sshs) - Migrated, use `extras/sshs`.
 - [superfile](https://github.com/yorukot/superfile) - Migrated, use `main/superfile`.
