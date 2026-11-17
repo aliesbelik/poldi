@@ -249,6 +249,7 @@ scoop install poldi/<app>
 - [lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing Conventional Commits.
 - [mq](https://github.com/harehare/mq) - `jq`-like command-line tool for markdown processing.
+- [neohtop-cli](https://github.com/Abdenasser/neohtop-cli) - A cross-platform terminal process monitor with btop-style visualizations.
 - [oq](https://github.com/plutov/oq) - A terminal-based OpenAPI Specification viewer.
 - [omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate content-aware diffing.
 - [parm](https://github.com/alxrw/parm) - Cross-platform package manager for GitHub Releases.
